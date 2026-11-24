@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 191 48" role="img" aria-labelledby="title">
+  <title id="title">ChickFlow</title>
+  <rect x="0" y="2" width="44" height="44" rx="4" fill="#963c32"/>
+  <path d="M7 18h16l10-8h5L26 23H7zm0 8h14l7-1-6 7H7zm0 9h12l-4 4H7z" fill="#fff6ec"/>
+  <text x="54" y="34" fill="#262624" font-family="Avenir Next,Arial,sans-serif" font-size="29" font-weight="700" letter-spacing="-1">ChickFlow</text>
+</svg>

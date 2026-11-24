@@ -1,0 +1,4 @@
+branch_id,branch_name,city,latitude,longitude,opening_time,closing_time,demand_multiplier,prep_capacity_multiplier,region
+BR-01,ChickFlow Padang,Padang,-0.95,100.36,10:00,22:00,1.25,1.0,Sumatera Barat
+BR-02,ChickFlow Bukittinggi,Bukittinggi,-0.3,100.37,10:00,22:00,1.0,1.0,Sumatera Barat
+BR-03,ChickFlow Payakumbuh,Payakumbuh,-0.23,100.63,10:00,22:00,0.8,1.0,Sumatera Barat

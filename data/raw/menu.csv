@@ -1,0 +1,25 @@
+menu_id,menu_name,category,station,base_prep_min,list_price_idr,is_active,popularity_weight
+M01,Original Crispy Chicken,Fried Chicken,FRYER,9,22000,True,12
+M02,Spicy Crispy Chicken,Fried Chicken,FRYER,10,24000,True,11
+M03,Crispy Chicken Breast, fried chicken ,FRYER,10,26000,True,8
+M04,Smoky BBQ Chicken,Fried Chicken,FRYER,10,29000,True,7
+M05,Mozza Crunch Chicken,Fried Chicken,FRYER,11,32000,True,5
+M06,Original Chicken Rice,Rice Meal,ASSEMBLY,6,32000,True,10
+M07,Spicy Chicken Rice,Rice Meal,ASSEMBLY,7,34000,True,9
+M08,Teriyaki Chicken Rice,Rice Meal,ASSEMBLY,8,35000,True,7
+M09,Fire Chicken Rice Bowl,Rice Meal,ASSEMBLY,8,33000,True,8
+M10,BBQ Chicken Wings,Wings,FRYER,12,32000,True,8
+M11,Hot Chicken Wings,Wings,FRYER,13,33000,True,7
+M12,Crunchy Wings Bucket,Wings,FRYER,15,49000,True,4
+M13,Classic Chicken Burger, burger ,GRILL,7,31000,True,9
+M14,Spicy Chicken Burger,Burger,GRILL,8,32000,True,8
+M15,Double Chicken Burger,Burger,GRILL,11,34000,True,5
+M16,Crispy Chicken Wrap,Burger,ASSEMBLY,7,30000,True,6
+M17,Classic French Fries,Sides,FRYER,5,16000,True,10
+M18,Loaded Cheese Fries,Sides,FRYER,6,26000,True,6
+M19,Chicken Nugget Bites,Sides,FRYER,6,24000,True,8
+M20,Fresh Coleslaw,Sides,ASSEMBLY,3,14000,True,5
+M21,Iced Tea,Beverage,DRINK,2,10000,True,13
+M22,Fresh Lemon Tea,Beverage,DRINK,3,14000,True,9
+M23,Cola Fizz,Beverage,DRINK,1,16000,True,7
+M24,Family Feast Box,,FRYER,18,69000,True,5

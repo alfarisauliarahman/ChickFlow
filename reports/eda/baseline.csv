@@ -1,0 +1,7 @@
+id,masalah,bukti,visual,tindakan
+P01,Permintaan terkonsentrasi pada jam tertentu,"Pukul 12:00 memuat 605 order, sedangkan pukul 16:00 memuat 118.",V-Q03,Bandingkan beban rata-rata per hari saat meninjau kapasitas shift.
+P02,Keterlambatan berbeda antarcabang,Payakumbuh memiliki 198/929 order terlambat (21.3%). Rentang antarcabang 15.2%–21.3%.,V-Q06,Periksa komposisi kanal dan jam sebelum mengubah alokasi shift.
+P03,Terdapat menu dengan volume penjualan dan margin rendah,Family Feast Box terjual 231 unit dengan margin 11.1%.,V-Q07,"Periksa harga, diskon dan biaya resep menu ini."
+P04,Sejumlah bahan berada di bawah titik pesan ulang,1 dari 81 pasangan bahan–cabang berada di bawah titik pesan ulang pada 2026-10-30.,V-Q08,"Periksa unit, kekurangan, dan riwayat penerimaan sebelum restock."
+P05,Waktu persiapan memiliki ekor panjang,Median 12.6 menit dan P90 24.9 menit pada 3511 order.,"V-Q05, V-Q10",Telusuri kelompok pesanan paling lambat per cabang dan kanal.
+P06,Pemborosan menambah biaya bahan terpisah dari COGS penjualan,"432 event waste dengan biaya Rp2,006,875.",V-Q12,Dahulukan bahan dengan biaya waste paling besar untuk evaluasi batch.

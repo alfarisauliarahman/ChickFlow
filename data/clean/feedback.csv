@@ -1,0 +1,769 @@
+feedback_id,order_id,rating,review_text,theme,feedback_at
+FB-000006,ORD-000006,4,,harga,2026-10-01T12:30:18+07:00
+FB-000008,ORD-000008,2,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-01T11:54:26+07:00
+FB-000018,ORD-000018,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-01T12:50:01+07:00
+FB-000019,ORD-000019,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-01T12:14:48+07:00
+FB-000020,ORD-000020,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-01T12:41:41+07:00
+FB-000043,ORD-000043,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-01T15:32:45+07:00
+FB-000044,ORD-000044,5,,kemasan,2026-10-01T15:33:26+07:00
+FB-000047,ORD-000047,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-01T16:17:39+07:00
+FB-000048,ORD-000048,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-01T15:35:42+07:00
+FB-000052,ORD-000052,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-01T17:49:23+07:00
+FB-000053,ORD-000053,2,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-01T18:00:10+07:00
+FB-000054,ORD-000054,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-01T18:41:10+07:00
+FB-000064,ORD-000064,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-01T19:06:44+07:00
+FB-000066,ORD-000066,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-01T19:01:02+07:00
+FB-000072,ORD-000072,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-01T20:19:41+07:00
+FB-000079,ORD-000079,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-01T20:39:00+07:00
+FB-000090,ORD-000090,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-01T22:07:27+07:00
+FB-000092,ORD-000092,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-01T22:50:50+07:00
+FB-000093,ORD-000093,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-01T23:01:34+07:00
+FB-000094,ORD-000094,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-01T22:56:14+07:00
+FB-000113,ORD-000113,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-02T13:07:50+07:00
+FB-000117,ORD-000117,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-02T13:10:16+07:00
+FB-000123,ORD-000123,4,,porsi,2026-10-02T12:38:27+07:00
+FB-000126,ORD-000126,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-02T13:47:16+07:00
+FB-000129,ORD-000129,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-02T13:54:12+07:00
+FB-000141,ORD-000141,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-02T14:15:41+07:00
+FB-000142,ORD-000142,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-02T14:21:12+07:00
+FB-000146,ORD-000146,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-02T14:55:01+07:00
+FB-000147,ORD-000147,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-02T14:58:20+07:00
+FB-000148,ORD-000148,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-02T14:03:47+07:00
+FB-000152,ORD-000152,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-02T14:51:22+07:00
+FB-000157,ORD-000157,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-02T16:24:32+07:00
+FB-000165,ORD-000165,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-02T17:43:33+07:00
+FB-000166,ORD-000166,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-02T17:16:59+07:00
+FB-000167,ORD-000167,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-02T17:47:04+07:00
+FB-000175,ORD-000175,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-02T19:01:35+07:00
+FB-000176,ORD-000176,3,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-02T18:03:54+07:00
+FB-000182,ORD-000182,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-02T19:14:25+07:00
+FB-000183,ORD-000183,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-02T19:21:55+07:00
+FB-000185,ORD-000185,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-02T19:09:05+07:00
+FB-000186,ORD-000186,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-02T20:02:05+07:00
+FB-000193,ORD-000193,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-02T19:49:48+07:00
+FB-000194,ORD-000194,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-02T20:29:28+07:00
+FB-000207,ORD-000207,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-02T21:54:20+07:00
+FB-000215,ORD-000215,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-02T22:19:01+07:00
+FB-000217,ORD-000217,3,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-02T23:12:59+07:00
+FB-000225,ORD-000225,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-03T12:51:12+07:00
+FB-000227,ORD-000227,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-03T11:48:30+07:00
+FB-000230,ORD-000230,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-03T11:51:38+07:00
+FB-000248,ORD-000248,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-03T13:20:01+07:00
+FB-000250,ORD-000250,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-03T13:41:50+07:00
+FB-000255,ORD-000255,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-03T14:29:18+07:00
+FB-000268,ORD-000268,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-03T14:22:24+07:00
+FB-000272,ORD-000272,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-03T14:33:08+07:00
+FB-000277,ORD-000277,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-03T15:16:50+07:00
+FB-000280,ORD-000280,2,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-03T16:01:49+07:00
+FB-000290,ORD-000290,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-03T18:05:03+07:00
+FB-000294,ORD-000294,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-03T18:25:23+07:00
+FB-000302,ORD-000302,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-03T19:04:24+07:00
+FB-000309,ORD-000309,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-03T20:20:18+07:00
+FB-000312,ORD-000312,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-03T19:47:13+07:00
+FB-000314,ORD-000314,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-03T20:11:00+07:00
+FB-000317,ORD-000317,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-03T20:12:30+07:00
+FB-000324,ORD-000324,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-03T20:41:02+07:00
+FB-000330,ORD-000330,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-03T20:29:43+07:00
+FB-000333,ORD-000333,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-03T20:44:51+07:00
+FB-000343,ORD-000343,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-03T21:41:21+07:00
+FB-000344,ORD-000344,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-03T22:19:54+07:00
+FB-000345,ORD-000345,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-03T22:15:02+07:00
+FB-000348,ORD-000348,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-03T21:29:53+07:00
+FB-000349,ORD-000349,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-03T21:35:40+07:00
+FB-000367,ORD-000367,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-04T12:24:35+07:00
+FB-000369,ORD-000369,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-04T12:40:56+07:00
+FB-000370,ORD-000370,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-04T12:04:52+07:00
+FB-000375,ORD-000375,2,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-04T13:07:37+07:00
+FB-000384,ORD-000384,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-04T14:09:25+07:00
+FB-000385,ORD-000385,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-04T13:13:43+07:00
+FB-000387,ORD-000387,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-04T14:26:29+07:00
+FB-000389,ORD-000389,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-04T13:28:34+07:00
+FB-000395,ORD-000395,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-04T15:05:14+07:00
+FB-000399,ORD-000399,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-04T14:35:37+07:00
+FB-000401,ORD-000401,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-04T14:52:41+07:00
+FB-000402,ORD-000402,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-04T14:28:11+07:00
+FB-000408,ORD-000408,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-04T15:37:32+07:00
+FB-000410,ORD-000410,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-04T15:39:44+07:00
+FB-000420,ORD-000420,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-04T17:36:06+07:00
+FB-000423,ORD-000423,3,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-04T17:41:57+07:00
+FB-000432,ORD-000432,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-04T19:42:25+07:00
+FB-000435,ORD-000435,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-04T19:34:08+07:00
+FB-000437,ORD-000437,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-04T19:33:28+07:00
+FB-000453,ORD-000453,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-04T20:50:09+07:00
+FB-000455,ORD-000455,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-04T21:03:00+07:00
+FB-000463,ORD-000463,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-04T22:21:11+07:00
+FB-000464,ORD-000464,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-04T21:33:19+07:00
+FB-000465,ORD-000465,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-04T22:10:30+07:00
+FB-000478,ORD-000478,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-05T12:37:20+07:00
+FB-000485,ORD-000485,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-05T12:56:34+07:00
+FB-000490,ORD-000490,3,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-05T13:40:09+07:00
+FB-000497,ORD-000497,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-05T13:40:00+07:00
+FB-000498,ORD-000498,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-05T13:00:40+07:00
+FB-000507,ORD-000507,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-05T13:31:47+07:00
+FB-000510,ORD-000510,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-05T13:20:32+07:00
+FB-000512,ORD-000512,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-05T13:42:25+07:00
+FB-000516,ORD-000516,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-05T13:50:45+07:00
+FB-000518,ORD-000518,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-05T13:48:04+07:00
+FB-000524,ORD-000524,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-05T14:54:27+07:00
+FB-000532,ORD-000532,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-05T15:06:18+07:00
+FB-000538,ORD-000538,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-05T18:02:08+07:00
+FB-000540,ORD-000540,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-05T17:49:06+07:00
+FB-000541,ORD-000541,2,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-05T18:29:57+07:00
+FB-000542,ORD-000542,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-05T18:39:32+07:00
+FB-000546,ORD-000546,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-05T18:24:25+07:00
+FB-000551,ORD-000551,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-05T18:50:41+07:00
+FB-000552,ORD-000552,2,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-05T19:09:29+07:00
+FB-000553,ORD-000553,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-05T19:24:50+07:00
+FB-000566,ORD-000566,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-05T20:28:59+07:00
+FB-000568,ORD-000568,2,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-05T20:28:57+07:00
+FB-000577,ORD-000577,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-05T21:09:07+07:00
+FB-000579,ORD-000579,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-05T22:07:51+07:00
+FB-000580,ORD-000580,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-05T21:14:30+07:00
+FB-000584,ORD-000584,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-05T21:47:01+07:00
+FB-000595,ORD-000595,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-06T11:21:25+07:00
+FB-000600,ORD-000600,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-06T11:40:47+07:00
+FB-000603,ORD-000603,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-06T11:49:50+07:00
+FB-000606,ORD-000606,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-06T12:26:59+07:00
+FB-000610,ORD-000610,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-06T12:03:56+07:00
+FB-000612,ORD-000612,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-06T13:01:26+07:00
+FB-000618,ORD-000618,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-06T13:27:58+07:00
+FB-000622,ORD-000622,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-06T13:48:33+07:00
+FB-000625,ORD-000625,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-06T13:50:03+07:00
+FB-000628,ORD-000628,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-06T13:23:15+07:00
+FB-000631,ORD-000631,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-06T14:23:15+07:00
+FB-000637,ORD-000637,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-06T15:15:56+07:00
+FB-000645,ORD-000645,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-06T15:28:19+07:00
+FB-000648,ORD-000648,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-06T17:25:15+07:00
+FB-000663,ORD-000663,3,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-06T19:07:35+07:00
+FB-000666,ORD-000666,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-06T19:51:41+07:00
+FB-000669,ORD-000669,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-06T20:10:06+07:00
+FB-000671,ORD-000671,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-06T19:44:14+07:00
+FB-000673,ORD-000673,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-06T20:10:35+07:00
+FB-000678,ORD-000678,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-06T20:49:23+07:00
+FB-000682,ORD-000682,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-06T20:22:50+07:00
+FB-000687,ORD-000687,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-06T21:27:19+07:00
+FB-000688,ORD-000688,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-06T21:07:02+07:00
+FB-000689,ORD-000689,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-06T22:00:12+07:00
+FB-000692,ORD-000692,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-06T21:28:38+07:00
+FB-000694,ORD-000694,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-06T22:10:14+07:00
+FB-000696,ORD-000696,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-06T22:43:11+07:00
+FB-000698,ORD-000698,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-06T22:16:05+07:00
+FB-000705,ORD-000705,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-07T12:13:37+07:00
+FB-000709,ORD-000709,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-07T13:04:54+07:00
+FB-000716,ORD-000716,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-07T13:34:16+07:00
+FB-000720,ORD-000720,3,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-07T13:10:41+07:00
+FB-000737,ORD-000737,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-07T14:02:23+07:00
+FB-000741,ORD-000741,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-07T14:53:15+07:00
+FB-000742,ORD-000742,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-07T14:47:47+07:00
+FB-000743,ORD-000743,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-07T14:49:36+07:00
+FB-000744,ORD-000744,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-07T14:47:08+07:00
+FB-000745,ORD-000745,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-07T14:51:37+07:00
+FB-000746,ORD-000746,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-07T14:41:31+07:00
+FB-000747,ORD-000747,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-07T14:20:54+07:00
+FB-000748,ORD-000748,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-07T15:02:14+07:00
+FB-000758,ORD-000758,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-07T17:46:44+07:00
+FB-000766,ORD-000766,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-07T19:07:52+07:00
+FB-000767,ORD-000767,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-07T19:52:20+07:00
+FB-000769,ORD-000769,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-07T19:07:24+07:00
+FB-000771,ORD-000771,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-07T19:23:42+07:00
+FB-000772,ORD-000772,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-07T18:45:46+07:00
+FB-000781,ORD-000781,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-07T19:54:49+07:00
+FB-000800,ORD-000800,3,,porsi,2026-10-07T20:51:22+07:00
+FB-000806,ORD-000806,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-07T21:38:29+07:00
+FB-000807,ORD-000807,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-07T21:48:20+07:00
+FB-000817,ORD-000817,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-08T12:06:16+07:00
+FB-000818,ORD-000818,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-08T11:52:39+07:00
+FB-000829,ORD-000829,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-08T12:30:35+07:00
+FB-000835,ORD-000835,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-08T14:06:42+07:00
+FB-000836,ORD-000836,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-08T13:18:26+07:00
+FB-000840,ORD-000840,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-08T13:57:56+07:00
+FB-000842,ORD-000842,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-08T13:32:19+07:00
+FB-000850,ORD-000850,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-08T15:17:57+07:00
+FB-000859,ORD-000859,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-08T17:47:29+07:00
+FB-000861,ORD-000861,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-08T17:55:50+07:00
+FB-000862,ORD-000862,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-08T17:54:22+07:00
+FB-000864,ORD-000864,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-08T19:03:47+07:00
+FB-000872,ORD-000872,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-08T19:40:09+07:00
+FB-000877,ORD-000877,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-08T20:11:58+07:00
+FB-000882,ORD-000882,3,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-08T20:33:32+07:00
+FB-000883,ORD-000883,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-08T19:46:16+07:00
+FB-000889,ORD-000889,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-08T19:38:15+07:00
+FB-000896,ORD-000896,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-08T21:04:51+07:00
+FB-000906,ORD-000906,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-08T23:15:27+07:00
+FB-000908,ORD-000908,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-08T22:37:03+07:00
+FB-000909,ORD-000909,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-08T22:41:10+07:00
+FB-000912,ORD-000912,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-09T11:31:25+07:00
+FB-000920,ORD-000920,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-09T12:32:49+07:00
+FB-000921,ORD-000921,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-09T11:53:09+07:00
+FB-000923,ORD-000923,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-09T11:48:25+07:00
+FB-000931,ORD-000931,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-09T12:10:10+07:00
+FB-000935,ORD-000935,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-09T13:25:31+07:00
+FB-000940,ORD-000940,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-09T13:36:55+07:00
+FB-000942,ORD-000942,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-09T13:24:08+07:00
+FB-000946,ORD-000946,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-09T13:08:35+07:00
+FB-000949,ORD-000949,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-09T13:38:24+07:00
+FB-000954,ORD-000954,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-09T13:25:21+07:00
+FB-000958,ORD-000958,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-09T14:16:08+07:00
+FB-000967,ORD-000967,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-09T14:14:24+07:00
+FB-000970,ORD-000970,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-09T14:57:25+07:00
+FB-000973,ORD-000973,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-09T14:34:04+07:00
+FB-000978,ORD-000978,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-09T15:31:37+07:00
+FB-000982,ORD-000982,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-09T16:31:40+07:00
+FB-000983,ORD-000983,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-09T16:42:32+07:00
+FB-000985,ORD-000985,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-09T17:21:59+07:00
+FB-000990,ORD-000990,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-09T19:10:12+07:00
+FB-000998,ORD-000998,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-09T19:55:28+07:00
+FB-001002,ORD-001002,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-09T20:04:39+07:00
+FB-001004,ORD-001004,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-09T20:54:05+07:00
+FB-001005,ORD-001005,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-09T20:14:35+07:00
+FB-001007,ORD-001007,3,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-09T20:07:01+07:00
+FB-001010,ORD-001010,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-09T20:51:33+07:00
+FB-001011,ORD-001011,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-09T20:48:49+07:00
+FB-001016,ORD-001016,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-09T19:59:02+07:00
+FB-001023,ORD-001023,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-09T21:45:29+07:00
+FB-001024,ORD-001024,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-09T21:06:01+07:00
+FB-001031,ORD-001031,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-09T21:10:51+07:00
+FB-001038,ORD-001038,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-09T21:35:58+07:00
+FB-001044,ORD-001044,3,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-09T22:15:48+07:00
+FB-001049,ORD-001049,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-10T12:32:55+07:00
+FB-001050,ORD-001050,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-10T12:01:57+07:00
+FB-001051,ORD-001051,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-10T11:22:58+07:00
+FB-001066,ORD-001066,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-10T12:59:44+07:00
+FB-001070,ORD-001070,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-10T13:38:29+07:00
+FB-001074,ORD-001074,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-10T13:33:06+07:00
+FB-001080,ORD-001080,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-10T13:44:53+07:00
+FB-001081,ORD-001081,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-10T13:20:36+07:00
+FB-001085,ORD-001085,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-10T13:31:13+07:00
+FB-001092,ORD-001092,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-10T13:54:58+07:00
+FB-001097,ORD-001097,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-10T14:30:55+07:00
+FB-001109,ORD-001109,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-10T15:27:26+07:00
+FB-001111,ORD-001111,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-10T15:02:23+07:00
+FB-001113,ORD-001113,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-10T15:52:44+07:00
+FB-001114,ORD-001114,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-10T16:15:43+07:00
+FB-001115,ORD-001115,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-10T15:47:56+07:00
+FB-001118,ORD-001118,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-10T15:59:30+07:00
+FB-001119,ORD-001119,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-10T16:34:48+07:00
+FB-001134,ORD-001134,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-10T19:44:24+07:00
+FB-001141,ORD-001141,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-10T19:48:46+07:00
+FB-001145,ORD-001145,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-10T20:43:03+07:00
+FB-001148,ORD-001148,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-10T20:01:50+07:00
+FB-001152,ORD-001152,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-10T20:24:42+07:00
+FB-001155,ORD-001155,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-10T19:49:39+07:00
+FB-001167,ORD-001167,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-10T20:29:37+07:00
+FB-001173,ORD-001173,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-10T21:21:40+07:00
+FB-001174,ORD-001174,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-10T21:18:53+07:00
+FB-001179,ORD-001179,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-10T21:34:53+07:00
+FB-001180,ORD-001180,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-10T21:47:21+07:00
+FB-001187,ORD-001187,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-10T22:14:46+07:00
+FB-001189,ORD-001189,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-11T11:16:27+07:00
+FB-001192,ORD-001192,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-11T11:23:14+07:00
+FB-001195,ORD-001195,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-11T11:51:45+07:00
+FB-001199,ORD-001199,5,,porsi,2026-10-11T12:23:01+07:00
+FB-001200,ORD-001200,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-11T13:12:05+07:00
+FB-001207,ORD-001207,3,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-11T13:11:24+07:00
+FB-001211,ORD-001211,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-11T12:40:30+07:00
+FB-001220,ORD-001220,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-11T13:22:47+07:00
+FB-001230,ORD-001230,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-11T14:10:21+07:00
+FB-001231,ORD-001231,3,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-11T13:20:31+07:00
+FB-001235,ORD-001235,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-11T14:50:55+07:00
+FB-001245,ORD-001245,3,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-11T15:19:24+07:00
+FB-001257,ORD-001257,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-11T19:13:42+07:00
+FB-001259,ORD-001259,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-11T19:32:42+07:00
+FB-001261,ORD-001261,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-11T18:36:30+07:00
+FB-001262,ORD-001262,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-11T19:45:15+07:00
+FB-001267,ORD-001267,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-11T19:52:25+07:00
+FB-001270,ORD-001270,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-11T19:09:01+07:00
+FB-001272,ORD-001272,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-11T20:01:34+07:00
+FB-001273,ORD-001273,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-11T19:25:26+07:00
+FB-001274,ORD-001274,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-11T19:00:54+07:00
+FB-001278,ORD-001278,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-11T19:46:36+07:00
+FB-001284,ORD-001284,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-11T20:44:12+07:00
+FB-001289,ORD-001289,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-11T20:08:01+07:00
+FB-001301,ORD-001301,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-11T22:58:34+07:00
+FB-001307,ORD-001307,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-12T11:57:00+07:00
+FB-001314,ORD-001314,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-12T12:07:23+07:00
+FB-001315,ORD-001315,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-12T12:00:28+07:00
+FB-001316,ORD-001316,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-12T13:05:58+07:00
+FB-001317,ORD-001317,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-12T12:17:10+07:00
+FB-001320,ORD-001320,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-12T13:30:23+07:00
+FB-001327,ORD-001327,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-12T13:14:59+07:00
+FB-001330,ORD-001330,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-12T13:54:25+07:00
+FB-001334,ORD-001334,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-12T13:24:09+07:00
+FB-001343,ORD-001343,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-12T13:24:27+07:00
+FB-001348,ORD-001348,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-12T14:09:26+07:00
+FB-001355,ORD-001355,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-12T14:54:48+07:00
+FB-001357,ORD-001357,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-12T14:27:26+07:00
+FB-001360,ORD-001360,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-12T15:51:42+07:00
+FB-001361,ORD-001361,2,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-12T15:01:25+07:00
+FB-001365,ORD-001365,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-12T15:49:01+07:00
+FB-001369,ORD-001369,3,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-12T16:23:09+07:00
+FB-001370,ORD-001370,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-12T17:25:40+07:00
+FB-001371,ORD-001371,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-12T17:45:12+07:00
+FB-001382,ORD-001382,3,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-12T18:44:21+07:00
+FB-001384,ORD-001384,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-12T19:10:06+07:00
+FB-001385,ORD-001385,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-12T18:55:09+07:00
+FB-001388,ORD-001388,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-12T19:16:10+07:00
+FB-001390,ORD-001390,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-12T20:49:09+07:00
+FB-001405,ORD-001405,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-12T20:55:30+07:00
+FB-001408,ORD-001408,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-12T22:16:10+07:00
+FB-001410,ORD-001410,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-12T22:20:04+07:00
+FB-001411,ORD-001411,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-12T22:02:08+07:00
+FB-001414,ORD-001414,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-12T22:34:50+07:00
+FB-001420,ORD-001420,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-13T10:36:10+07:00
+FB-001424,ORD-001424,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-13T11:31:54+07:00
+FB-001425,ORD-001425,3,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-13T12:15:10+07:00
+FB-001427,ORD-001427,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-13T12:43:19+07:00
+FB-001428,ORD-001428,3,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-13T12:21:29+07:00
+FB-001437,ORD-001437,5,,porsi,2026-10-13T12:48:31+07:00
+FB-001438,ORD-001438,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-13T12:58:26+07:00
+FB-001440,ORD-001440,3,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-13T13:19:14+07:00
+FB-001444,ORD-001444,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-13T12:34:25+07:00
+FB-001446,ORD-001446,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-13T13:47:20+07:00
+FB-001447,ORD-001447,3,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-13T13:11:03+07:00
+FB-001448,ORD-001448,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-13T13:56:15+07:00
+FB-001460,ORD-001460,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-13T14:37:08+07:00
+FB-001463,ORD-001463,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-13T14:58:34+07:00
+FB-001469,ORD-001469,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-13T15:20:25+07:00
+FB-001470,ORD-001470,3,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-13T14:55:10+07:00
+FB-001481,ORD-001481,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-13T17:48:21+07:00
+FB-001482,ORD-001482,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-13T17:32:28+07:00
+FB-001483,ORD-001483,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-13T18:03:59+07:00
+FB-001486,ORD-001486,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-13T17:50:01+07:00
+FB-001487,ORD-001487,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-13T18:31:58+07:00
+FB-001494,ORD-001494,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-13T19:37:14+07:00
+FB-001500,ORD-001500,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-13T19:11:54+07:00
+FB-001505,ORD-001505,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-13T19:49:55+07:00
+FB-001507,ORD-001507,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-13T19:40:29+07:00
+FB-001517,ORD-001517,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-13T20:59:51+07:00
+FB-001525,ORD-001525,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-13T21:20:16+07:00
+FB-001534,ORD-001534,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-14T10:52:35+07:00
+FB-001556,ORD-001556,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-14T13:19:16+07:00
+FB-001562,ORD-001562,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-14T12:59:40+07:00
+FB-001584,ORD-001584,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-14T14:03:21+07:00
+FB-001589,ORD-001589,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-14T14:47:18+07:00
+FB-001591,ORD-001591,3,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-14T14:58:37+07:00
+FB-001604,ORD-001604,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-14T16:53:59+07:00
+FB-001605,ORD-001605,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-14T17:41:13+07:00
+FB-001607,ORD-001607,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-14T18:05:12+07:00
+FB-001613,ORD-001613,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-14T18:17:35+07:00
+FB-001614,ORD-001614,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-14T18:51:34+07:00
+FB-001615,ORD-001615,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-14T19:05:42+07:00
+FB-001618,ORD-001618,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-14T18:58:46+07:00
+FB-001620,ORD-001620,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-14T19:12:19+07:00
+FB-001621,ORD-001621,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-14T18:55:08+07:00
+FB-001624,ORD-001624,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-14T19:25:30+07:00
+FB-001625,ORD-001625,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-14T20:16:27+07:00
+FB-001626,ORD-001626,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-14T19:40:35+07:00
+FB-001631,ORD-001631,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-14T20:55:21+07:00
+FB-001634,ORD-001634,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-14T20:49:56+07:00
+FB-001635,ORD-001635,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-14T20:50:42+07:00
+FB-001644,ORD-001644,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-14T20:44:04+07:00
+FB-001646,ORD-001646,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-14T21:07:55+07:00
+FB-001647,ORD-001647,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-14T21:26:11+07:00
+FB-001648,ORD-001648,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-14T21:50:32+07:00
+FB-001653,ORD-001653,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-15T11:31:44+07:00
+FB-001659,ORD-001659,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-15T11:49:40+07:00
+FB-001664,ORD-001664,3,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-15T12:51:31+07:00
+FB-001667,ORD-001667,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-15T12:59:41+07:00
+FB-001669,ORD-001669,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-15T12:21:41+07:00
+FB-001672,ORD-001672,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-15T13:27:42+07:00
+FB-001676,ORD-001676,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-15T13:07:18+07:00
+FB-001680,ORD-001680,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-15T14:08:13+07:00
+FB-001692,ORD-001692,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-15T15:08:40+07:00
+FB-001697,ORD-001697,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-15T15:38:56+07:00
+FB-001700,ORD-001700,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-15T16:44:04+07:00
+FB-001703,ORD-001703,3,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-15T17:53:49+07:00
+FB-001705,ORD-001705,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-15T18:18:51+07:00
+FB-001709,ORD-001709,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-15T17:44:58+07:00
+FB-001715,ORD-001715,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-15T18:51:26+07:00
+FB-001718,ORD-001718,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-15T19:46:14+07:00
+FB-001725,ORD-001725,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-15T18:56:46+07:00
+FB-001734,ORD-001734,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-15T20:47:44+07:00
+FB-001735,ORD-001735,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-15T20:49:00+07:00
+FB-001736,ORD-001736,3,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-15T20:34:53+07:00
+FB-001742,ORD-001742,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-15T20:52:44+07:00
+FB-001743,ORD-001743,2,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-15T20:25:16+07:00
+FB-001750,ORD-001750,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-15T21:49:50+07:00
+FB-001753,ORD-001753,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-15T21:18:18+07:00
+FB-001761,ORD-001761,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-15T22:56:01+07:00
+FB-001763,ORD-001763,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-16T11:40:12+07:00
+FB-001775,ORD-001775,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-16T12:59:27+07:00
+FB-001780,ORD-001780,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-16T12:44:16+07:00
+FB-001781,ORD-001781,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-16T12:29:19+07:00
+FB-001787,ORD-001787,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-16T12:51:46+07:00
+FB-001789,ORD-001789,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-16T13:47:42+07:00
+FB-001791,ORD-001791,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-16T13:16:34+07:00
+FB-001793,ORD-001793,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-16T13:17:50+07:00
+FB-001795,ORD-001795,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-16T12:54:16+07:00
+FB-001796,ORD-001796,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-16T13:07:03+07:00
+FB-001800,ORD-001800,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-16T13:50:52+07:00
+FB-001802,ORD-001802,2,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-16T13:34:20+07:00
+FB-001803,ORD-001803,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-16T13:12:31+07:00
+FB-001811,ORD-001811,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-16T13:40:02+07:00
+FB-001816,ORD-001816,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-16T14:30:36+07:00
+FB-001826,ORD-001826,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-16T15:00:12+07:00
+FB-001827,ORD-001827,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-16T15:11:51+07:00
+FB-001829,ORD-001829,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-16T14:52:51+07:00
+FB-001837,ORD-001837,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-16T15:54:07+07:00
+FB-001860,ORD-001860,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-16T19:44:16+07:00
+FB-001875,ORD-001875,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-16T20:39:42+07:00
+FB-001881,ORD-001881,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-16T20:16:36+07:00
+FB-001883,ORD-001883,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-16T20:08:49+07:00
+FB-001891,ORD-001891,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-16T21:39:41+07:00
+FB-001897,ORD-001897,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-16T21:45:02+07:00
+FB-001906,ORD-001906,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-17T12:21:48+07:00
+FB-001911,ORD-001911,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-17T12:10:29+07:00
+FB-001928,ORD-001928,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-17T12:56:34+07:00
+FB-001929,ORD-001929,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-17T14:03:07+07:00
+FB-001933,ORD-001933,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-17T13:12:26+07:00
+FB-001936,ORD-001936,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-17T14:10:42+07:00
+FB-001938,ORD-001938,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-17T14:08:19+07:00
+FB-001940,ORD-001940,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-17T14:21:18+07:00
+FB-001943,ORD-001943,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-17T14:11:12+07:00
+FB-001947,ORD-001947,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-17T15:08:50+07:00
+FB-001948,ORD-001948,4,,kemasan,2026-10-17T14:54:15+07:00
+FB-001949,ORD-001949,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-17T15:31:17+07:00
+FB-001952,ORD-001952,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-17T15:02:36+07:00
+FB-001955,ORD-001955,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-17T16:00:41+07:00
+FB-001957,ORD-001957,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-17T16:34:35+07:00
+FB-001958,ORD-001958,2,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-17T17:24:50+07:00
+FB-001960,ORD-001960,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-17T18:54:32+07:00
+FB-001970,ORD-001970,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-17T18:39:11+07:00
+FB-001972,ORD-001972,3,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-17T18:46:59+07:00
+FB-001979,ORD-001979,2,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-17T19:26:03+07:00
+FB-001982,ORD-001982,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-17T19:20:38+07:00
+FB-002001,ORD-002001,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-17T20:41:59+07:00
+FB-002002,ORD-002002,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-17T20:46:33+07:00
+FB-002015,ORD-002015,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-17T20:33:17+07:00
+FB-002019,ORD-002019,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-17T20:41:27+07:00
+FB-002022,ORD-002022,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-17T22:01:12+07:00
+FB-002030,ORD-002030,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-17T21:52:51+07:00
+FB-002034,ORD-002034,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-17T22:55:37+07:00
+FB-002035,ORD-002035,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-17T22:49:46+07:00
+FB-002036,ORD-002036,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-17T22:46:45+07:00
+FB-002049,ORD-002049,2,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-18T11:31:34+07:00
+FB-002052,ORD-002052,2,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-18T12:19:09+07:00
+FB-002058,ORD-002058,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-18T13:07:08+07:00
+FB-002062,ORD-002062,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-18T13:37:49+07:00
+FB-002074,ORD-002074,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-18T14:07:36+07:00
+FB-002076,ORD-002076,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-18T14:07:01+07:00
+FB-002083,ORD-002083,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-18T14:15:52+07:00
+FB-002084,ORD-002084,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-18T13:57:50+07:00
+FB-002085,ORD-002085,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-18T13:28:16+07:00
+FB-002089,ORD-002089,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-18T14:52:20+07:00
+FB-002092,ORD-002092,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-18T14:19:53+07:00
+FB-002094,ORD-002094,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-18T15:39:44+07:00
+FB-002100,ORD-002100,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-18T14:38:02+07:00
+FB-002105,ORD-002105,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-18T15:28:15+07:00
+FB-002108,ORD-002108,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-18T15:54:02+07:00
+FB-002119,ORD-002119,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-18T19:00:58+07:00
+FB-002135,ORD-002135,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-18T21:01:35+07:00
+FB-002139,ORD-002139,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-18T20:37:30+07:00
+FB-002143,ORD-002143,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-18T21:28:30+07:00
+FB-002150,ORD-002150,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-18T20:46:15+07:00
+FB-002153,ORD-002153,3,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-18T21:44:09+07:00
+FB-002154,ORD-002154,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-18T21:32:21+07:00
+FB-002155,ORD-002155,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-18T22:02:15+07:00
+FB-002156,ORD-002156,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-18T22:41:21+07:00
+FB-002162,ORD-002162,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-19T10:52:05+07:00
+FB-002163,ORD-002163,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-19T11:54:18+07:00
+FB-002171,ORD-002171,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-19T11:50:52+07:00
+FB-002173,ORD-002173,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-19T12:14:29+07:00
+FB-002174,ORD-002174,3,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-19T12:25:21+07:00
+FB-002179,ORD-002179,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-19T12:18:56+07:00
+FB-002182,ORD-002182,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-19T12:47:33+07:00
+FB-002184,ORD-002184,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-19T13:29:51+07:00
+FB-002199,ORD-002199,4,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-19T14:27:22+07:00
+FB-002202,ORD-002202,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-19T14:23:45+07:00
+FB-002206,ORD-002206,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-19T13:33:33+07:00
+FB-002208,ORD-002208,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-19T14:35:34+07:00
+FB-002222,ORD-002222,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-19T15:38:01+07:00
+FB-002228,ORD-002228,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-19T18:51:49+07:00
+FB-002235,ORD-002235,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-19T19:32:25+07:00
+FB-002243,ORD-002243,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-19T19:19:00+07:00
+FB-002252,ORD-002252,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-19T21:08:47+07:00
+FB-002253,ORD-002253,2,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-19T20:57:21+07:00
+FB-002254,ORD-002254,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-19T20:29:32+07:00
+FB-002259,ORD-002259,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-19T20:31:26+07:00
+FB-002262,ORD-002262,3,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-19T21:45:56+07:00
+FB-002266,ORD-002266,2,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-19T21:00:31+07:00
+FB-002275,ORD-002275,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-19T21:33:36+07:00
+FB-002276,ORD-002276,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-19T22:38:34+07:00
+FB-002279,ORD-002279,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-19T22:20:06+07:00
+FB-002287,ORD-002287,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-20T12:29:23+07:00
+FB-002288,ORD-002288,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-20T11:21:44+07:00
+FB-002294,ORD-002294,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-20T12:04:43+07:00
+FB-002296,ORD-002296,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-20T12:09:50+07:00
+FB-002299,ORD-002299,3,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-20T12:24:04+07:00
+FB-002304,ORD-002304,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-20T12:41:19+07:00
+FB-002312,ORD-002312,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-20T13:07:56+07:00
+FB-002317,ORD-002317,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-20T13:18:10+07:00
+FB-002321,ORD-002321,5,,pelayanan,2026-10-20T13:18:37+07:00
+FB-002323,ORD-002323,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-20T13:18:57+07:00
+FB-002326,ORD-002326,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-20T13:22:21+07:00
+FB-002328,ORD-002328,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-20T13:37:06+07:00
+FB-002329,ORD-002329,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-20T13:44:46+07:00
+FB-002331,ORD-002331,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-20T13:49:57+07:00
+FB-002333,ORD-002333,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-20T14:10:27+07:00
+FB-002336,ORD-002336,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-20T14:54:07+07:00
+FB-002337,ORD-002337,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-20T14:41:44+07:00
+FB-002339,ORD-002339,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-20T14:42:31+07:00
+FB-002343,ORD-002343,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-20T15:02:23+07:00
+FB-002351,ORD-002351,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-20T14:40:02+07:00
+FB-002355,ORD-002355,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-20T15:38:20+07:00
+FB-002357,ORD-002357,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-20T16:43:12+07:00
+FB-002370,ORD-002370,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-20T19:35:01+07:00
+FB-002375,ORD-002375,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-20T20:26:54+07:00
+FB-002389,ORD-002389,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-20T20:38:29+07:00
+FB-002392,ORD-002392,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-20T21:11:17+07:00
+FB-002395,ORD-002395,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-20T21:15:42+07:00
+FB-002397,ORD-002397,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-20T22:05:14+07:00
+FB-002401,ORD-002401,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-20T22:19:47+07:00
+FB-002413,ORD-002413,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-20T23:15:02+07:00
+FB-002416,ORD-002416,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-21T11:19:25+07:00
+FB-002420,ORD-002420,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-21T11:26:50+07:00
+FB-002426,ORD-002426,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-21T12:38:13+07:00
+FB-002430,ORD-002430,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-21T13:05:48+07:00
+FB-002431,ORD-002431,3,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-21T13:49:08+07:00
+FB-002440,ORD-002440,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-21T14:29:40+07:00
+FB-002444,ORD-002444,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-21T13:37:15+07:00
+FB-002447,ORD-002447,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-21T14:43:13+07:00
+FB-002449,ORD-002449,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-21T14:12:05+07:00
+FB-002454,ORD-002454,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-21T14:54:05+07:00
+FB-002456,ORD-002456,2,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-21T14:38:15+07:00
+FB-002465,ORD-002465,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-21T15:23:02+07:00
+FB-002466,ORD-002466,2,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-21T15:59:49+07:00
+FB-002472,ORD-002472,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-21T15:35:12+07:00
+FB-002473,ORD-002473,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-21T16:42:21+07:00
+FB-002477,ORD-002477,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-21T16:39:59+07:00
+FB-002478,ORD-002478,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-21T16:22:14+07:00
+FB-002481,ORD-002481,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-21T16:51:20+07:00
+FB-002492,ORD-002492,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-21T19:10:30+07:00
+FB-002493,ORD-002493,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-21T19:01:03+07:00
+FB-002499,ORD-002499,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-21T20:33:01+07:00
+FB-002501,ORD-002501,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-21T20:21:16+07:00
+FB-002509,ORD-002509,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-21T20:34:58+07:00
+FB-002516,ORD-002516,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-21T21:35:16+07:00
+FB-002518,ORD-002518,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-21T22:06:54+07:00
+FB-002523,ORD-002523,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-21T21:59:58+07:00
+FB-002528,ORD-002528,3,,kecepatan,2026-10-22T11:36:31+07:00
+FB-002531,ORD-002531,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-22T11:53:06+07:00
+FB-002532,ORD-002532,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-22T12:01:55+07:00
+FB-002533,ORD-002533,4,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-22T12:35:46+07:00
+FB-002534,ORD-002534,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-22T11:55:10+07:00
+FB-002540,ORD-002540,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-22T12:30:10+07:00
+FB-002543,ORD-002543,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-22T13:48:12+07:00
+FB-002545,ORD-002545,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-22T13:33:13+07:00
+FB-002546,ORD-002546,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-22T13:36:03+07:00
+FB-002560,ORD-002560,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-22T14:41:36+07:00
+FB-002568,ORD-002568,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-22T16:21:05+07:00
+FB-002569,ORD-002569,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-22T16:12:22+07:00
+FB-002573,ORD-002573,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-22T18:11:11+07:00
+FB-002579,ORD-002579,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-22T18:47:22+07:00
+FB-002585,ORD-002585,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-22T18:50:08+07:00
+FB-002592,ORD-002592,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-22T19:03:09+07:00
+FB-002601,ORD-002601,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-22T20:43:04+07:00
+FB-002609,ORD-002609,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-22T21:02:48+07:00
+FB-002610,ORD-002610,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-22T20:50:48+07:00
+FB-002611,ORD-002611,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-22T20:10:54+07:00
+FB-002612,ORD-002612,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-22T20:58:21+07:00
+FB-002616,ORD-002616,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-22T20:27:37+07:00
+FB-002619,ORD-002619,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-22T20:46:03+07:00
+FB-002630,ORD-002630,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-22T22:39:46+07:00
+FB-002646,ORD-002646,3,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-23T11:52:47+07:00
+FB-002656,ORD-002656,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-23T12:47:09+07:00
+FB-002659,ORD-002659,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-23T13:05:57+07:00
+FB-002661,ORD-002661,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-23T13:37:10+07:00
+FB-002662,ORD-002662,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-23T13:47:37+07:00
+FB-002669,ORD-002669,3,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-23T14:04:59+07:00
+FB-002670,ORD-002670,2,Porsi kentang terasa kecil. Semoga kunjungan berikutnya lebih baik.,porsi,2026-10-23T14:14:22+07:00
+FB-002671,ORD-002671,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-23T13:32:13+07:00
+FB-002674,ORD-002674,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-23T14:27:46+07:00
+FB-002679,ORD-002679,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-23T14:25:24+07:00
+FB-002683,ORD-002683,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-23T14:51:06+07:00
+FB-002691,ORD-002691,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-23T15:36:18+07:00
+FB-002692,ORD-002692,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-23T15:17:13+07:00
+FB-002694,ORD-002694,3,Bumbunya kurang terasa. Semoga konsisten.,rasa,2026-10-23T15:21:14+07:00
+FB-002701,ORD-002701,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-23T15:47:36+07:00
+FB-002702,ORD-002702,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-23T16:18:58+07:00
+FB-002705,ORD-002705,3,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-23T16:47:59+07:00
+FB-002711,ORD-002711,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-23T17:45:06+07:00
+FB-002715,ORD-002715,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-23T18:15:48+07:00
+FB-002721,ORD-002721,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-23T18:13:55+07:00
+FB-002724,ORD-002724,5,,rasa,2026-10-23T18:29:58+07:00
+FB-002729,ORD-002729,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-23T19:52:56+07:00
+FB-002731,ORD-002731,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-23T19:22:32+07:00
+FB-002733,ORD-002733,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-23T19:22:13+07:00
+FB-002741,ORD-002741,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-23T19:59:59+07:00
+FB-002744,ORD-002744,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-23T20:34:38+07:00
+FB-002750,ORD-002750,2,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-23T20:36:17+07:00
+FB-002751,ORD-002751,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-23T21:32:52+07:00
+FB-002752,ORD-002752,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-23T20:24:02+07:00
+FB-002757,ORD-002757,2,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-23T21:52:46+07:00
+FB-002759,ORD-002759,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-23T20:54:19+07:00
+FB-002760,ORD-002760,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-23T21:32:40+07:00
+FB-002762,ORD-002762,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-23T21:51:18+07:00
+FB-002765,ORD-002765,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-23T21:34:08+07:00
+FB-002771,ORD-002771,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-24T10:44:44+07:00
+FB-002773,ORD-002773,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-24T11:34:05+07:00
+FB-002777,ORD-002777,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-24T11:31:42+07:00
+FB-002789,ORD-002789,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-24T13:59:17+07:00
+FB-002791,ORD-002791,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-24T13:22:44+07:00
+FB-002796,ORD-002796,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-24T13:27:20+07:00
+FB-002801,ORD-002801,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-24T13:21:32+07:00
+FB-002804,ORD-002804,5,,kemasan,2026-10-24T12:54:16+07:00
+FB-002806,ORD-002806,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-24T14:00:41+07:00
+FB-002813,ORD-002813,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-24T14:06:18+07:00
+FB-002816,ORD-002816,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-24T14:06:39+07:00
+FB-002828,ORD-002828,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-24T14:43:13+07:00
+FB-002832,ORD-002832,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-24T14:42:52+07:00
+FB-002834,ORD-002834,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-24T15:26:55+07:00
+FB-002842,ORD-002842,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-24T15:58:37+07:00
+FB-002858,ORD-002858,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-24T17:54:58+07:00
+FB-002866,ORD-002866,3,Minuman bocor di dalam kemasan. Semoga kunjungan berikutnya lebih baik.,kemasan,2026-10-24T19:47:18+07:00
+FB-002869,ORD-002869,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-24T19:32:02+07:00
+FB-002870,ORD-002870,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-24T19:45:58+07:00
+FB-002873,ORD-002873,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-24T19:16:36+07:00
+FB-002877,ORD-002877,3,,rasa,2026-10-24T20:11:40+07:00
+FB-002878,ORD-002878,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-24T20:09:16+07:00
+FB-002881,ORD-002881,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-24T19:23:34+07:00
+FB-002885,ORD-002885,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-24T20:32:52+07:00
+FB-002888,ORD-002888,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-24T19:46:51+07:00
+FB-002896,ORD-002896,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-24T20:38:19+07:00
+FB-002902,ORD-002902,3,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-24T20:04:56+07:00
+FB-002910,ORD-002910,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-24T21:07:22+07:00
+FB-002912,ORD-002912,4,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-24T21:54:22+07:00
+FB-002921,ORD-002921,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-24T22:46:22+07:00
+FB-002929,ORD-002929,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-25T10:30:02+07:00
+FB-002930,ORD-002930,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-25T11:06:19+07:00
+FB-002933,ORD-002933,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-25T12:13:16+07:00
+FB-002934,ORD-002934,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-25T11:37:58+07:00
+FB-002935,ORD-002935,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-25T12:39:01+07:00
+FB-002936,ORD-002936,5,,pelayanan,2026-10-25T11:59:41+07:00
+FB-002939,ORD-002939,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-25T12:13:07+07:00
+FB-002942,ORD-002942,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-25T13:15:16+07:00
+FB-002952,ORD-002952,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-25T13:14:59+07:00
+FB-002954,ORD-002954,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-25T13:38:11+07:00
+FB-002959,ORD-002959,4,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-25T13:34:07+07:00
+FB-002961,ORD-002961,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-25T14:43:16+07:00
+FB-002966,ORD-002966,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-25T14:37:08+07:00
+FB-002971,ORD-002971,5,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-25T16:15:34+07:00
+FB-002973,ORD-002973,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-25T16:03:22+07:00
+FB-002979,ORD-002979,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-25T17:35:24+07:00
+FB-002987,ORD-002987,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-25T18:39:36+07:00
+FB-003006,ORD-003006,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-25T21:08:22+07:00
+FB-003010,ORD-003010,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-25T20:19:19+07:00
+FB-003020,ORD-003020,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-25T21:14:58+07:00
+FB-003024,ORD-003024,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-25T20:35:31+07:00
+FB-003025,ORD-003025,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-25T21:01:05+07:00
+FB-003026,ORD-003026,2,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-25T21:47:14+07:00
+FB-003032,ORD-003032,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-25T21:44:52+07:00
+FB-003035,ORD-003035,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-25T20:57:52+07:00
+FB-003043,ORD-003043,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-25T22:31:30+07:00
+FB-003050,ORD-003050,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-26T11:38:53+07:00
+FB-003051,ORD-003051,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-26T11:39:22+07:00
+FB-003054,ORD-003054,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-26T12:10:37+07:00
+FB-003056,ORD-003056,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-26T12:37:37+07:00
+FB-003060,ORD-003060,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-26T12:57:01+07:00
+FB-003062,ORD-003062,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-26T13:13:30+07:00
+FB-003067,ORD-003067,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-26T13:10:15+07:00
+FB-003071,ORD-003071,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-26T12:58:46+07:00
+FB-003072,ORD-003072,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-26T13:44:52+07:00
+FB-003073,ORD-003073,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-26T13:25:05+07:00
+FB-003074,ORD-003074,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-26T13:24:33+07:00
+FB-003079,ORD-003079,5,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-26T14:24:52+07:00
+FB-003086,ORD-003086,5,Kemasan rapi dan minuman aman. Mudah dibawa pulang.,kemasan,2026-10-26T14:22:00+07:00
+FB-003089,ORD-003089,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-26T15:13:06+07:00
+FB-003094,ORD-003094,4,Pelayanan ramah saat ambil pesanan. Sesuai untuk makan siang.,pelayanan,2026-10-26T16:26:16+07:00
+FB-003097,ORD-003097,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-26T17:27:08+07:00
+FB-003100,ORD-003100,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-26T17:31:29+07:00
+FB-003114,ORD-003114,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-26T19:34:36+07:00
+FB-003120,ORD-003120,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-26T19:13:05+07:00
+FB-003129,ORD-003129,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-26T21:20:52+07:00
+FB-003135,ORD-003135,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-26T20:42:38+07:00
+FB-003137,ORD-003137,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-26T20:37:41+07:00
+FB-003140,ORD-003140,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-26T21:01:17+07:00
+FB-003144,ORD-003144,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-26T22:35:44+07:00
+FB-003146,ORD-003146,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-26T21:57:05+07:00
+FB-003153,ORD-003153,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-27T11:27:11+07:00
+FB-003155,ORD-003155,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-27T12:22:30+07:00
+FB-003165,ORD-003165,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-27T13:20:15+07:00
+FB-003167,ORD-003167,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-27T13:10:09+07:00
+FB-003168,ORD-003168,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-27T12:20:47+07:00
+FB-003169,ORD-003169,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-27T12:36:24+07:00
+FB-003179,ORD-003179,2,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-27T14:21:28+07:00
+FB-003181,ORD-003181,4,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-27T13:13:06+07:00
+FB-003184,ORD-003184,2,Informasi waktu tunggu kurang jelas. Semoga kunjungan berikutnya lebih baik.,pelayanan,2026-10-27T14:14:09+07:00
+FB-003191,ORD-003191,5,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-27T15:00:02+07:00
+FB-003192,ORD-003192,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-27T15:19:34+07:00
+FB-003194,ORD-003194,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-27T16:02:14+07:00
+FB-003198,ORD-003198,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-27T18:14:15+07:00
+FB-003205,ORD-003205,2,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-27T18:50:39+07:00
+FB-003208,ORD-003208,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-27T18:55:15+07:00
+FB-003214,ORD-003214,4,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-27T19:32:11+07:00
+FB-003215,ORD-003215,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-27T19:46:47+07:00
+FB-003216,ORD-003216,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-27T19:28:11+07:00
+FB-003221,ORD-003221,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-27T19:12:27+07:00
+FB-003227,ORD-003227,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-27T20:19:22+07:00
+FB-003234,ORD-003234,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-27T21:07:53+07:00
+FB-003236,ORD-003236,5,Porsi nasi dan ayam pas. Akan pesan lagi.,porsi,2026-10-27T20:54:21+07:00
+FB-003237,ORD-003237,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-27T20:16:29+07:00
+FB-003242,ORD-003242,2,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-27T21:19:34+07:00
+FB-003243,ORD-003243,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-27T21:40:16+07:00
+FB-003254,ORD-003254,4,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-28T10:43:52+07:00
+FB-003257,ORD-003257,3,Minuman bocor di dalam kemasan. Semoga konsisten.,kemasan,2026-10-28T12:25:17+07:00
+FB-003263,ORD-003263,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-28T11:49:21+07:00
+FB-003264,ORD-003264,5,Porsi nasi dan ayam pas. Sesuai untuk makan siang.,porsi,2026-10-28T12:23:49+07:00
+FB-003266,ORD-003266,4,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-28T12:41:46+07:00
+FB-003268,ORD-003268,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-28T12:59:07+07:00
+FB-003277,ORD-003277,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-28T13:25:32+07:00
+FB-003300,ORD-003300,2,Harga paket terasa mahal. Semoga kunjungan berikutnya lebih baik.,harga,2026-10-28T14:40:25+07:00
+FB-003310,ORD-003310,3,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-28T16:31:57+07:00
+FB-003325,ORD-003325,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-28T19:15:04+07:00
+FB-003326,ORD-003326,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-28T19:16:54+07:00
+FB-003340,ORD-003340,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-28T20:35:55+07:00
+FB-003350,ORD-003350,2,Bumbunya kurang terasa. Semoga kunjungan berikutnya lebih baik.,rasa,2026-10-28T21:29:13+07:00
+FB-003357,ORD-003357,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-28T20:55:21+07:00
+FB-003366,ORD-003366,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-29T11:47:37+07:00
+FB-003368,ORD-003368,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-29T11:48:43+07:00
+FB-003370,ORD-003370,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-29T13:00:28+07:00
+FB-003371,ORD-003371,4,Kemasan rapi dan minuman aman. Sesuai untuk makan siang.,kemasan,2026-10-29T12:41:06+07:00
+FB-003382,ORD-003382,5,Kemasan rapi dan minuman aman. Akan pesan lagi.,kemasan,2026-10-29T13:32:10+07:00
+FB-003383,ORD-003383,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-29T12:57:33+07:00
+FB-003387,ORD-003387,2,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-29T13:49:07+07:00
+FB-003395,ORD-003395,4,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-29T13:59:24+07:00
+FB-003397,ORD-003397,5,Pesanan cepat dan praktis. Sesuai untuk makan siang.,kecepatan,2026-10-29T14:16:44+07:00
+FB-003403,ORD-003403,2,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-29T15:18:41+07:00
+FB-003415,ORD-003415,5,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-29T18:25:02+07:00
+FB-003416,ORD-003416,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-29T18:05:45+07:00
+FB-003418,ORD-003418,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-29T18:09:58+07:00
+FB-003423,ORD-003423,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-29T18:34:59+07:00
+FB-003424,ORD-003424,2,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-29T18:40:23+07:00
+FB-003426,ORD-003426,4,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-29T19:50:45+07:00
+FB-003428,ORD-003428,5,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-29T19:57:20+07:00
+FB-003439,ORD-003439,4,,kemasan,2026-10-29T20:57:52+07:00
+FB-003442,ORD-003442,4,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-29T21:02:52+07:00
+FB-003444,ORD-003444,2,Harga paket terasa mahal. Semoga konsisten.,harga,2026-10-29T20:32:59+07:00
+FB-003446,ORD-003446,2,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-29T21:05:52+07:00
+FB-003449,ORD-003449,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-29T21:00:18+07:00
+FB-003452,ORD-003452,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-29T21:23:01+07:00
+FB-003459,ORD-003459,4,Harga sesuai dengan porsinya. Akan pesan lagi.,harga,2026-10-29T21:33:23+07:00
+FB-003465,ORD-003465,4,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-29T22:13:36+07:00
+FB-003470,ORD-003470,5,Pelayanan ramah saat ambil pesanan. Akan pesan lagi.,pelayanan,2026-10-30T12:17:39+07:00
+FB-003475,ORD-003475,4,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-30T12:01:22+07:00
+FB-003477,ORD-003477,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-30T12:51:26+07:00
+FB-003481,ORD-003481,4,Pesanan cepat dan praktis. Mudah dibawa pulang.,kecepatan,2026-10-30T12:44:19+07:00
+FB-003485,ORD-003485,4,Porsi nasi dan ayam pas. Mudah dibawa pulang.,porsi,2026-10-30T12:27:59+07:00
+FB-003512,ORD-003512,5,Harga sesuai dengan porsinya. Sesuai untuk makan siang.,harga,2026-10-30T14:12:51+07:00
+FB-003520,ORD-003520,3,Porsi kentang terasa kecil. Semoga konsisten.,porsi,2026-10-30T15:41:31+07:00
+FB-003547,ORD-003547,3,Pesanan perlu waktu lebih lama. Semoga kunjungan berikutnya lebih baik.,kecepatan,2026-10-30T19:24:44+07:00
+FB-003550,ORD-003550,5,Pelayanan ramah saat ambil pesanan. Mudah dibawa pulang.,pelayanan,2026-10-30T19:44:02+07:00
+FB-003551,ORD-003551,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-30T19:29:56+07:00
+FB-003554,ORD-003554,5,Ayam renyah dan bumbunya pas. Sesuai untuk makan siang.,rasa,2026-10-30T20:13:16+07:00
+FB-003556,ORD-003556,3,Informasi waktu tunggu kurang jelas. Semoga konsisten.,pelayanan,2026-10-30T19:38:26+07:00
+FB-003565,ORD-003565,3,Pesanan perlu waktu lebih lama. Semoga konsisten.,kecepatan,2026-10-30T20:31:30+07:00
+FB-003578,ORD-003578,5,,pelayanan,2026-10-30T21:03:04+07:00
+FB-003581,ORD-003581,5,Pesanan cepat dan praktis. Akan pesan lagi.,kecepatan,2026-10-30T21:34:10+07:00
+FB-003584,ORD-003584,5,Ayam renyah dan bumbunya pas. Akan pesan lagi.,rasa,2026-10-30T21:45:31+07:00
+FB-003588,ORD-003588,5,Ayam renyah dan bumbunya pas. Mudah dibawa pulang.,rasa,2026-10-30T21:56:01+07:00
+FB-003593,ORD-003593,5,Harga sesuai dengan porsinya. Mudah dibawa pulang.,harga,2026-10-30T21:51:44+07:00

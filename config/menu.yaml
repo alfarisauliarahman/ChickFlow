@@ -1,0 +1,192 @@
+- menu_id: M01
+  menu_name: Original Crispy Chicken
+  category: Fried Chicken
+  list_price_idr: 22000
+  station: FRYER
+  popularity_weight: 12
+  base_prep_min: 9
+  is_active: true
+- menu_id: M02
+  menu_name: Spicy Crispy Chicken
+  category: Fried Chicken
+  list_price_idr: 24000
+  station: FRYER
+  popularity_weight: 11
+  base_prep_min: 10
+  is_active: true
+- menu_id: M03
+  menu_name: Crispy Chicken Breast
+  category: Fried Chicken
+  list_price_idr: 26000
+  station: FRYER
+  popularity_weight: 8
+  base_prep_min: 10
+  is_active: true
+- menu_id: M04
+  menu_name: Smoky BBQ Chicken
+  category: Fried Chicken
+  list_price_idr: 29000
+  station: FRYER
+  popularity_weight: 7
+  base_prep_min: 10
+  is_active: true
+- menu_id: M05
+  menu_name: Mozza Crunch Chicken
+  category: Fried Chicken
+  list_price_idr: 32000
+  station: FRYER
+  popularity_weight: 5
+  base_prep_min: 11
+  is_active: true
+- menu_id: M06
+  menu_name: Original Chicken Rice
+  category: Rice Meal
+  list_price_idr: 32000
+  station: ASSEMBLY
+  popularity_weight: 10
+  base_prep_min: 6
+  is_active: true
+- menu_id: M07
+  menu_name: Spicy Chicken Rice
+  category: Rice Meal
+  list_price_idr: 34000
+  station: ASSEMBLY
+  popularity_weight: 9
+  base_prep_min: 7
+  is_active: true
+- menu_id: M08
+  menu_name: Teriyaki Chicken Rice
+  category: Rice Meal
+  list_price_idr: 35000
+  station: ASSEMBLY
+  popularity_weight: 7
+  base_prep_min: 8
+  is_active: true
+- menu_id: M09
+  menu_name: Fire Chicken Rice Bowl
+  category: Rice Meal
+  list_price_idr: 33000
+  station: ASSEMBLY
+  popularity_weight: 8
+  base_prep_min: 8
+  is_active: true
+- menu_id: M10
+  menu_name: BBQ Chicken Wings
+  category: Wings
+  list_price_idr: 32000
+  station: FRYER
+  popularity_weight: 8
+  base_prep_min: 12
+  is_active: true
+- menu_id: M11
+  menu_name: Hot Chicken Wings
+  category: Wings
+  list_price_idr: 33000
+  station: FRYER
+  popularity_weight: 7
+  base_prep_min: 13
+  is_active: true
+- menu_id: M12
+  menu_name: Crunchy Wings Bucket
+  category: Wings
+  list_price_idr: 49000
+  station: FRYER
+  popularity_weight: 4
+  base_prep_min: 15
+  is_active: true
+- menu_id: M13
+  menu_name: Classic Chicken Burger
+  category: Burger
+  list_price_idr: 31000
+  station: GRILL
+  popularity_weight: 9
+  base_prep_min: 7
+  is_active: true
+- menu_id: M14
+  menu_name: Spicy Chicken Burger
+  category: Burger
+  list_price_idr: 32000
+  station: GRILL
+  popularity_weight: 8
+  base_prep_min: 8
+  is_active: true
+- menu_id: M15
+  menu_name: Double Chicken Burger
+  category: Burger
+  list_price_idr: 34000
+  station: GRILL
+  popularity_weight: 5
+  base_prep_min: 11
+  is_active: true
+- menu_id: M16
+  menu_name: Crispy Chicken Wrap
+  category: Burger
+  list_price_idr: 30000
+  station: ASSEMBLY
+  popularity_weight: 6
+  base_prep_min: 7
+  is_active: true
+- menu_id: M17
+  menu_name: Classic French Fries
+  category: Sides
+  list_price_idr: 16000
+  station: FRYER
+  popularity_weight: 10
+  base_prep_min: 5
+  is_active: true
+- menu_id: M18
+  menu_name: Loaded Cheese Fries
+  category: Sides
+  list_price_idr: 26000
+  station: FRYER
+  popularity_weight: 6
+  base_prep_min: 6
+  is_active: true
+- menu_id: M19
+  menu_name: Chicken Nugget Bites
+  category: Sides
+  list_price_idr: 24000
+  station: FRYER
+  popularity_weight: 8
+  base_prep_min: 6
+  is_active: true
+- menu_id: M20
+  menu_name: Fresh Coleslaw
+  category: Sides
+  list_price_idr: 14000
+  station: ASSEMBLY
+  popularity_weight: 5
+  base_prep_min: 3
+  is_active: true
+- menu_id: M21
+  menu_name: Iced Tea
+  category: Beverage
+  list_price_idr: 10000
+  station: DRINK
+  popularity_weight: 13
+  base_prep_min: 2
+  is_active: true
+- menu_id: M22
+  menu_name: Fresh Lemon Tea
+  category: Beverage
+  list_price_idr: 14000
+  station: DRINK
+  popularity_weight: 9
+  base_prep_min: 3
+  is_active: true
+- menu_id: M23
+  menu_name: Cola Fizz
+  category: Beverage
+  list_price_idr: 16000
+  station: DRINK
+  popularity_weight: 7
+  base_prep_min: 1
+  is_active: true
+- menu_id: M24
+  menu_name: Family Feast Box
+  category: Combo
+  list_price_idr: 69000
+  station: FRYER
+  popularity_weight: 5
+  base_prep_min: 18
+  is_active: true

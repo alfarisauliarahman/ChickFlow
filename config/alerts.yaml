@@ -1,0 +1,9 @@
+delay_limit: 0.10
+delay_min_orders: 20
+sku_margin_limit: 0.25
+sku_min_units: 10
+sales_ratio_limit: 0.85
+sales_baseline_days: 7
+margin_limit: 0.30
+prep_sla_ratio_limit: 1.40
+prep_min_orders: 20

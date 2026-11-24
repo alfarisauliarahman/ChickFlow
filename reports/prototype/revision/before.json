@@ -1,0 +1,47 @@
+{
+  "phase": "before",
+  "browser": "158.0.8127.36",
+  "filter": "24–30 Oktober 2026 WIB · semua cabang · semua kategori",
+  "scroll_position": "awal halaman",
+  "screenshots": [
+    {
+      "scenario": "ringkasan-mobile",
+      "route": "/",
+      "label": "Cek stok",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "position_y": 874,
+      "height": 28,
+      "first_screen": false,
+      "filename": "before-ringkasan-mobile.png"
+    },
+    {
+      "scenario": "stok",
+      "route": "/inventory",
+      "label": "Lihat riwayat stok",
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "position_y": 1019,
+      "height": 40,
+      "first_screen": false,
+      "filename": "before-stok.png"
+    },
+    {
+      "scenario": "biaya-resep",
+      "route": "/profit",
+      "label": "Cek biaya resep",
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "position_y": 740,
+      "height": 40,
+      "first_screen": false,
+      "filename": "before-biaya-resep.png"
+    }
+  ]
+}

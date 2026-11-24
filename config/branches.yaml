@@ -1,0 +1,57 @@
+- branch_id: BR-01
+  branch_name: ChickFlow Padang
+  city: Padang
+  latitude: -0.95
+  longitude: 100.36
+  opening_time: '10:00'
+  closing_time: '22:00'
+  region: Sumatera Barat
+  demand_multiplier: 1.25
+  prep_capacity_multiplier: 1.0
+  slots:
+    FRYER: 4
+    GRILL: 2
+    ASSEMBLY: 3
+    DRINK: 2
+  channels:
+  - 0.33
+  - 0.25
+  - 0.42
+- branch_id: BR-02
+  branch_name: ChickFlow Bukittinggi
+  city: Bukittinggi
+  latitude: -0.3
+  longitude: 100.37
+  opening_time: '10:00'
+  closing_time: '22:00'
+  region: Sumatera Barat
+  demand_multiplier: 1.0
+  prep_capacity_multiplier: 1.0
+  slots:
+    FRYER: 3
+    GRILL: 2
+    ASSEMBLY: 2
+    DRINK: 2
+  channels:
+  - 0.43
+  - 0.27
+  - 0.3
+- branch_id: BR-03
+  branch_name: ChickFlow Payakumbuh
+  city: Payakumbuh
+  latitude: -0.23
+  longitude: 100.63
+  opening_time: '10:00'
+  closing_time: '22:00'
+  region: Sumatera Barat
+  demand_multiplier: 0.8
+  prep_capacity_multiplier: 1.0
+  slots:
+    FRYER: 2
+    GRILL: 1
+    ASSEMBLY: 2
+    DRINK: 1
+  channels:
+  - 0.44
+  - 0.29
+  - 0.27

@@ -1,0 +1,443 @@
+{
+  "method": "evaluasi AI berbasis skenario",
+  "human_participants": 0,
+  "assessment_date": "2026-11-24",
+  "scope": "24–30 Oktober 2026, semua cabang dan kategori, seed 20261001",
+  "browser": "158.0.8127.36",
+  "figcraft_structural_check": [
+    {
+      "profile": "SIM-01",
+      "task": "A",
+      "start_frame": "Overview",
+      "action": "Dapur",
+      "module": "Kitchen Performance",
+      "detail": null,
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-01",
+      "task": "B",
+      "start_frame": "Overview",
+      "action": "Stok",
+      "module": "Inventory",
+      "detail": "Inventory · Riwayat mutasi",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-01",
+      "task": "C",
+      "start_frame": "Overview",
+      "action": "Biaya dan laba",
+      "module": "Food Cost & Profit",
+      "detail": "Profit · Biaya resep",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-02",
+      "task": "A",
+      "start_frame": "Overview",
+      "action": "Cek dapur",
+      "module": "Kitchen Performance",
+      "detail": null,
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-02",
+      "task": "B",
+      "start_frame": "Overview",
+      "action": "Cek stok",
+      "module": "Inventory",
+      "detail": "Inventory · Riwayat mutasi",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-02",
+      "task": "C",
+      "start_frame": "Overview",
+      "action": "Cek margin",
+      "module": "Food Cost & Profit",
+      "detail": "Profit · Biaya resep",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-03",
+      "task": "A",
+      "start_frame": "Overview",
+      "action": "Dapur",
+      "module": "Kitchen Performance",
+      "detail": null,
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-03",
+      "task": "B",
+      "start_frame": "Overview",
+      "action": "Stok",
+      "module": "Inventory",
+      "detail": "Inventory · Riwayat mutasi",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-03",
+      "task": "C",
+      "start_frame": "Overview",
+      "action": "Biaya dan laba",
+      "module": "Food Cost & Profit",
+      "detail": "Profit · Biaya resep",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-04",
+      "task": "A",
+      "start_frame": "Overview",
+      "action": "Dapur",
+      "module": "Kitchen Performance",
+      "detail": null,
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-04",
+      "task": "B",
+      "start_frame": "Overview",
+      "action": "Stok",
+      "module": "Inventory",
+      "detail": "Inventory · Riwayat mutasi",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-04",
+      "task": "C",
+      "start_frame": "Overview",
+      "action": "Biaya dan laba",
+      "module": "Food Cost & Profit",
+      "detail": "Profit · Biaya resep",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-05",
+      "task": "A",
+      "start_frame": "Overview · Mobile",
+      "action": "Dapur",
+      "module": "Kitchen Performance",
+      "detail": null,
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-05",
+      "task": "B",
+      "start_frame": "Overview · Mobile",
+      "action": "Cek stok",
+      "module": "Inventory",
+      "detail": "Inventory · Riwayat mutasi",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    },
+    {
+      "profile": "SIM-05",
+      "task": "C",
+      "start_frame": "Overview · Mobile",
+      "action": "Laba",
+      "module": "Food Cost & Profit",
+      "detail": "Profit · Biaya resep",
+      "linked": true,
+      "answer_present": true,
+      "destination_width": 1440
+    }
+  ],
+  "scenarios": [
+    {
+      "id": "SIM-01",
+      "role": "Pengguna baru",
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "method": "menu",
+      "initial_view": {
+        "Perlu diperiksa": {
+          "y": 486,
+          "fully_visible": true
+        },
+        "Cek stok": {
+          "y": 561,
+          "fully_visible": true
+        },
+        "Cek dapur": {
+          "y": 651,
+          "fully_visible": true
+        },
+        "Cek margin": {
+          "y": 738,
+          "fully_visible": true
+        }
+      },
+      "streamlit": [
+        {
+          "task": "A",
+          "passed": true,
+          "entry": "Dapur",
+          "observed": "Payakumbuh · 22,4% (49 dari 219 pesanan)",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "B",
+          "passed": true,
+          "entry": "Stok",
+          "observed": "Saus teriyaki · Payakumbuh · 48 ml dari batas 103 ml; riwayat terbuka",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "C",
+          "passed": true,
+          "entry": "Biaya dan laba",
+          "observed": "Family Feast Box · biaya resep Rp58.320 per unit",
+          "entry_tabs": null,
+          "detail_tabs": null
+        }
+      ]
+    },
+    {
+      "id": "SIM-02",
+      "role": "Manajer operasional",
+      "viewport": {
+        "width": 1920,
+        "height": 1080
+      },
+      "method": "alert",
+      "initial_view": {
+        "Perlu diperiksa": {
+          "y": 505,
+          "fully_visible": true
+        },
+        "Cek stok": {
+          "y": 584,
+          "fully_visible": true
+        },
+        "Cek dapur": {
+          "y": 674,
+          "fully_visible": true
+        },
+        "Cek margin": {
+          "y": 760,
+          "fully_visible": true
+        }
+      },
+      "streamlit": [
+        {
+          "task": "A",
+          "passed": true,
+          "entry": "Cek dapur",
+          "observed": "Payakumbuh · 22,4% (49 dari 219 pesanan)",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "B",
+          "passed": true,
+          "entry": "Cek stok",
+          "observed": "Saus teriyaki · Payakumbuh · 48 ml dari batas 103 ml; riwayat terbuka",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "C",
+          "passed": true,
+          "entry": "Cek margin",
+          "observed": "Family Feast Box · biaya resep Rp58.320 per unit",
+          "entry_tabs": null,
+          "detail_tabs": null
+        }
+      ]
+    },
+    {
+      "id": "SIM-03",
+      "role": "Staf persediaan",
+      "viewport": {
+        "width": 1024,
+        "height": 768
+      },
+      "method": "menu",
+      "criticalOnly": true,
+      "initial_view": {
+        "Perlu diperiksa": {
+          "y": 470,
+          "fully_visible": true
+        },
+        "Cek stok": {
+          "y": 544,
+          "fully_visible": true
+        },
+        "Cek dapur": {
+          "y": 644,
+          "fully_visible": true
+        },
+        "Cek margin": {
+          "y": 742,
+          "fully_visible": false
+        }
+      },
+      "streamlit": [
+        {
+          "task": "A",
+          "passed": true,
+          "entry": "Dapur",
+          "observed": "Payakumbuh · 22,4% (49 dari 219 pesanan)",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "B",
+          "passed": true,
+          "entry": "Stok",
+          "observed": "Saus teriyaki · Payakumbuh · 48 ml dari batas 103 ml; riwayat terbuka",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "C",
+          "passed": true,
+          "entry": "Biaya dan laba",
+          "observed": "Family Feast Box · biaya resep Rp58.320 per unit",
+          "entry_tabs": null,
+          "detail_tabs": null
+        }
+      ]
+    },
+    {
+      "id": "SIM-04",
+      "role": "Pengguna keyboard",
+      "viewport": {
+        "width": 1366,
+        "height": 768
+      },
+      "method": "keyboard",
+      "initial_view": {
+        "Perlu diperiksa": {
+          "y": 486,
+          "fully_visible": true
+        },
+        "Cek stok": {
+          "y": 561,
+          "fully_visible": true
+        },
+        "Cek dapur": {
+          "y": 651,
+          "fully_visible": true
+        },
+        "Cek margin": {
+          "y": 738,
+          "fully_visible": true
+        }
+      },
+      "streamlit": [
+        {
+          "task": "A",
+          "passed": true,
+          "entry": "Dapur",
+          "observed": "Payakumbuh · 22,4% (49 dari 219 pesanan)",
+          "entry_tabs": 4,
+          "detail_tabs": null
+        },
+        {
+          "task": "B",
+          "passed": true,
+          "entry": "Stok",
+          "observed": "Saus teriyaki · Payakumbuh · 48 ml dari batas 103 ml; riwayat terbuka",
+          "entry_tabs": 5,
+          "detail_tabs": 43
+        },
+        {
+          "task": "C",
+          "passed": true,
+          "entry": "Biaya dan laba",
+          "observed": "Family Feast Box · biaya resep Rp58.320 per unit",
+          "entry_tabs": 7,
+          "detail_tabs": 29
+        }
+      ]
+    },
+    {
+      "id": "SIM-05",
+      "role": "Pemilik melalui ponsel",
+      "viewport": {
+        "width": 390,
+        "height": 844
+      },
+      "method": "alert",
+      "mobile": true,
+      "initial_view": {
+        "Perlu diperiksa": {
+          "y": 707,
+          "fully_visible": true
+        },
+        "Cek stok": {
+          "y": 874,
+          "fully_visible": false
+        },
+        "Cek dapur": {
+          "y": 1063,
+          "fully_visible": false
+        },
+        "Cek margin": {
+          "y": 1228,
+          "fully_visible": false
+        }
+      },
+      "streamlit": [
+        {
+          "task": "A",
+          "passed": true,
+          "entry": "Cek dapur",
+          "observed": "Payakumbuh · 22,4% (49 dari 219 pesanan)",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "B",
+          "passed": true,
+          "entry": "Cek stok",
+          "observed": "Saus teriyaki · Payakumbuh · 48 ml dari batas 103 ml; riwayat terbuka",
+          "entry_tabs": null,
+          "detail_tabs": null
+        },
+        {
+          "task": "C",
+          "passed": true,
+          "entry": "Cek margin",
+          "observed": "Family Feast Box · biaya resep Rp58.320 per unit",
+          "entry_tabs": null,
+          "detail_tabs": null
+        }
+      ]
+    }
+  ]
+}

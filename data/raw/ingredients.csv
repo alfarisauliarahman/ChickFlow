@@ -1,0 +1,28 @@
+ingredient_id,ingredient_name,unit,unit_cost_idr,shelf_life_days,ingredient_group
+I01,Daging paha ayam,g,48,2,Protein
+I02,Fillet dada ayam,g,55,2,Protein
+I03,Sayap ayam,g,43,2,Protein
+I04,Tepung crispy mix,g,16,30,Dry goods
+I05,Minyak goreng,ml,25,30,Oil
+I06,Bumbu rempah,g,55,30,Seasoning
+I07,Nasi matang,g,12,30,Carb
+I08,Roti burger,pcs,3000,30,Carb
+I09,Keju slice,pcs,1600,7,Dairy
+I10,Selada,g,45,4,Produce
+I11,Tomat,g,35,4,Produce
+I12,Mayonnaise,ml,50,30,Condiment
+I13,Saus pedas,ml,65,30,Condiment
+I14,Saus barbeque,ml,60,30,Condiment
+I15,Saus teriyaki,ml,70,30,Condiment
+I16,Kentang,g,32,30,Carb
+I17,Kubis,g,22,4,Produce
+I18,Wortel,g,26,4,Produce
+I19,Telur,pcs,2200,2,Protein
+I20,Tortilla,pcs,2600,30,Carb
+I21,Konsentrat teh,ml,40,30,Beverage
+I22,Sirup gula,ml,45,30,Beverage
+I23,Perasan lemon,ml,75,30,Beverage
+I24,Soda,ml,18,30,Beverage
+I25,Air,ml,3,30,Beverage
+I26,Gelas dan tutup,pcs,850,30,Packaging
+I27,Kotak makanan,pcs,1200,30,Packaging

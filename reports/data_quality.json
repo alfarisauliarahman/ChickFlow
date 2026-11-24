@@ -1,0 +1,33 @@
+{
+  "passed": true,
+  "errors": [],
+  "rows": {
+    "branches": 3,
+    "menu": 24,
+    "ingredients": 27,
+    "recipes": 154,
+    "branch_inventory_policy": 81,
+    "orders": 3600,
+    "order_items": 7192,
+    "inventory_movements": 33021,
+    "feedback": 768
+  },
+  "completed_paid_orders": 3511,
+  "canceled_orders": 89,
+  "net_revenue_idr": 221142650,
+  "food_cogs_idr": 98693030,
+  "food_gp_idr": 122449620,
+  "reconciliation_abs_idr": {
+    "gross_amount_idr": 0,
+    "discount_amount_idr": 0,
+    "net_amount_idr": 0
+  },
+  "minimum_running_stock": 0,
+  "cleaning": {
+    "category_missing": 1,
+    "category_normalized": 2,
+    "format_timestamp": 36,
+    "duplicate_orders": 18,
+    "review_text_missing": 15
+  }
+}

@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="id">
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<title>ChickFlow — Wireframe dan mockup</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#edf2f7;color:#17263c;font:16px system-ui}main{max-width:1120px;margin:auto;padding:24px}
+h1,h2,p{margin:0 0 14px}section{margin:26px 0 42px}h3{margin:0 0 10px;font-size:.88rem}
+.pair{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:16px}.screen{--canvas:white;--surface:#f4f5f7;--text:#263347;--muted:#52657a;--line:#c6cfd9;--signal:#617386;min-height:316px;border:1px solid var(--line);display:grid;grid-template-columns:92px 1fr;background:var(--canvas);color:var(--text);border-radius:10px;overflow:hidden}.hi{--canvas:#0b1220;--surface:#17263c;--text:#f8fafc;--muted:#c7d2e0;--line:#2c4161;--signal:#f5b301}.nav{background:var(--surface);border-right:1px solid var(--line);padding:12px 6px}.nav p{font-size:.69rem;margin:10px 0}.nav img{width:25px;height:25px;vertical-align:middle;margin-right:3px}.nav strong{font-size:.65rem}.current{color:var(--signal);font-weight:750}.view{padding:12px;min-width:0}.view h4{margin:0 0 8px;font-size:1.05rem}.filters{padding:5px 6px;border:1px solid var(--line);font-size:.68rem;margin-bottom:10px;color:var(--muted)}
+.panels{display:grid;grid-template-columns:1fr 1fr;gap:7px}.panel{background:var(--surface);border:1px solid var(--line);padding:7px;border-radius:6px;min-width:0}.panel p{margin:0;font-size:.7rem;font-weight:700}.primary{grid-column:1/-1}.mark{display:flex;gap:4px;height:37px;align-items:flex-end;margin-top:7px}.mark i{display:block;background:var(--signal);flex:1;border-radius:2px 2px 0 0;opacity:.65}.support{font-size:.62rem;color:var(--muted);padding-top:6px}
+@media(max-width:850px){.pair{grid-template-columns:1fr}.screen{min-height:290px}}
+@media(max-width:420px){main{padding:12px}.screen{grid-template-columns:77px 1fr}.view{padding:9px}}
+@media print{body{background:white}section{break-inside:avoid}.pair{grid-template-columns:1fr 1fr}.screen{print-color-adjust:exact}}
+</style>
+<main>
+<h1>ChickFlow</h1>
+<p>Wireframe low-fi dan mockup hi-fi. Diagram menunjukkan posisi komponen dengan bentuk grafik ilustratif.</p>
+<div id="layouts"></div>
+</main>
+<script>
+const names = ["Overview","Orders","Kitchen","Inventory","Sales","Profit"];
+const layouts = [
+ ["Overview","Omzet bersih harian","Prioritas tindakan","8 KPI dan perbandingan cabang"],
+ ["Orders","Jam ramai per hari pengamatan","Pesanan dan kanal","Detail transaksi dan ulasan"],
+ ["Kitchen Performance","Keterlambatan per cabang dan kanal","Distribusi persiapan","Box plot dan sampel"],
+ ["Inventory","Stok kritis pada akhir tanggal","Rasio ke batas restock","Riwayat mutasi dan waste"],
+ ["Sales & Reports","Tren pendapatan bersih","Menu terlaris","Peta cabang dan ekspor"],
+ ["Food Cost & Profit","Volume menu dan margin kotor","Kontribusi kategori","Rincian diskon dan resep"],
+];
+function sketch(page) {
+ const svg = (children) => `<svg class="mark" width="100%" viewBox="0 0 240 41" preserveAspectRatio="none" aria-hidden="true">${children}</svg>`;
+ const trend = '<path d="M2 32 L31 29 62 14 91 20 120 11 150 18 180 3 208 14 238 7" fill="none" stroke="var(--signal)" stroke-width="2"/>';
+ if (page === 0 || page === 4) return svg(trend);
+ if (page === 1) return svg(Array.from({length:32}, (_,i) => `<rect x="${(i%8)*30}" y="${Math.floor(i/8)*10}" width="27" height="8" fill="var(--signal)" opacity="${.2+(i*7%9)/12}"/>`).join(""));
+ if (page === 2) return svg([16,29,12,22,34,16,20,26,11].map((h,i) => `<rect x="${i*26}" y="${41-h}" width="17" height="${h}" fill="var(--signal)" opacity=".72"/>`).join(""));
+ if (page === 3) return svg('<path d="M0 5h240 M0 17h240 M0 29h240 M0 41h240 M90 5v36 M160 5v36" fill="none" stroke="var(--signal)" opacity=".66"/>');
+ return svg('<path d="M0 23h240" stroke="var(--muted)" stroke-dasharray="4 4"/>'+[[14,28],[45,12],[68,28],[93,11],[121,33],[148,16],[168,26],[192,8],[219,16]].map(([x,y])=>`<circle cx="${x}" cy="${y}" r="4" fill="var(--signal)"/>`).join(""));
+}
+function screen([name, ...panels], idx, hi) {
+ const contents = panels.map((label, i) => `<div class="panel ${i===0?'primary':''}"><p>${label}</p>${i===0 ? sketch(idx) : '<div class="support">Detail &amp; bukti</div>'}</div>`).join('');
+ const nav = names.map((item,i)=>`<p class="${i===idx?'current':''}">${item}</p>`).join('');
+ return `<div class="screen ${hi?'hi':''}"><aside class="nav">${hi?'<img src="../../assets/brand/chickflow.svg" alt="">':''}<strong>ChickFlow</strong>${nav}</aside><div class="view"><h4>${name}</h4><div class="filters">Tanggal · Cabang · Kategori menu</div><div class="panels">${contents}</div></div></div>`;
+}
+document.getElementById("layouts").innerHTML = layouts.map((layout,i)=>`<section><h2>${layout[0]}</h2><div class="pair"><div><h3>Wireframe</h3>${screen(layout,i,false)}</div><div><h3>Mockup</h3>${screen(layout,i,true)}</div></div></section>`).join('');
+</script>
+</html>

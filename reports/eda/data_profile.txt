@@ -1,0 +1,265 @@
+
+branches
+<class 'pandas.DataFrame'>
+RangeIndex: 3 entries, 0 to 2
+Data columns (total 10 columns):
+ #   Column                    Non-Null Count  Dtype  
+---  ------                    --------------  -----  
+ 0   branch_id                 3 non-null      str    
+ 1   branch_name               3 non-null      str    
+ 2   city                      3 non-null      str    
+ 3   latitude                  3 non-null      float64
+ 4   longitude                 3 non-null      float64
+ 5   opening_time              3 non-null      str    
+ 6   closing_time              3 non-null      str    
+ 7   demand_multiplier         3 non-null      float64
+ 8   prep_capacity_multiplier  3 non-null      float64
+ 9   region                    3 non-null      str    
+dtypes: float64(4), str(6)
+memory usage: 543.0 bytes
+       branch_id       branch_name    city  latitude   longitude opening_time closing_time  demand_multiplier  prep_capacity_multiplier          region
+count          3                 3       3  3.000000    3.000000            3            3           3.000000                       3.0               3
+unique         3                 3       3       NaN         NaN            1            1                NaN                       NaN               1
+top        BR-01  ChickFlow Padang  Padang       NaN         NaN        10:00        22:00                NaN                       NaN  Sumatera Barat
+freq           1                 1       1       NaN         NaN            3            3                NaN                       NaN               3
+mean         NaN               NaN     NaN -0.493333  100.453333          NaN          NaN           1.016667                       1.0             NaN
+std          NaN               NaN     NaN  0.397031    0.153080          NaN          NaN           0.225462                       0.0             NaN
+min          NaN               NaN     NaN -0.950000  100.360000          NaN          NaN           0.800000                       1.0             NaN
+25%          NaN               NaN     NaN -0.625000  100.365000          NaN          NaN           0.900000                       1.0             NaN
+50%          NaN               NaN     NaN -0.300000  100.370000          NaN          NaN           1.000000                       1.0             NaN
+75%          NaN               NaN     NaN -0.265000  100.500000          NaN          NaN           1.125000                       1.0             NaN
+max          NaN               NaN     NaN -0.230000  100.630000          NaN          NaN           1.250000                       1.0             NaN
+
+menu
+<class 'pandas.DataFrame'>
+RangeIndex: 24 entries, 0 to 23
+Data columns (total 8 columns):
+ #   Column             Non-Null Count  Dtype
+---  ------             --------------  -----
+ 0   menu_id            24 non-null     str  
+ 1   menu_name          24 non-null     str  
+ 2   category           24 non-null     str  
+ 3   station            24 non-null     str  
+ 4   base_prep_min      24 non-null     int64
+ 5   list_price_idr     24 non-null     int64
+ 6   is_active          24 non-null     bool 
+ 7   popularity_weight  24 non-null     int64
+dtypes: bool(1), int64(3), str(4)
+memory usage: 2.3 KB
+       menu_id                menu_name       category station  base_prep_min  list_price_idr is_active  popularity_weight
+count       24                       24             24      24      24.000000       24.000000        24          24.000000
+unique      24                       24              7       4            NaN             NaN         1                NaN
+top        M01  Original Crispy Chicken  Fried Chicken   FRYER            NaN             NaN      True                NaN
+freq         1                        1              5      12            NaN             NaN        24                NaN
+mean       NaN                      NaN            NaN     NaN       8.166667    29041.666667       NaN           7.791667
+std        NaN                      NaN            NaN     NaN       4.061127    12202.918990       NaN           2.321528
+min        NaN                      NaN            NaN     NaN       1.000000    10000.000000       NaN           4.000000
+25%        NaN                      NaN            NaN     NaN       6.000000    23500.000000       NaN           6.000000
+50%        NaN                      NaN            NaN     NaN       8.000000    30500.000000       NaN           8.000000
+75%        NaN                      NaN            NaN     NaN      10.250000    33000.000000       NaN           9.000000
+max        NaN                      NaN            NaN     NaN      18.000000    69000.000000       NaN          13.000000
+
+ingredients
+<class 'pandas.DataFrame'>
+RangeIndex: 27 entries, 0 to 26
+Data columns (total 6 columns):
+ #   Column            Non-Null Count  Dtype
+---  ------            --------------  -----
+ 0   ingredient_id     27 non-null     str  
+ 1   ingredient_name   27 non-null     str  
+ 2   unit              27 non-null     str  
+ 3   unit_cost_idr     27 non-null     int64
+ 4   shelf_life_days   27 non-null     int64
+ 5   ingredient_group  27 non-null     str  
+dtypes: int64(2), str(4)
+memory usage: 2.0 KB
+       ingredient_id   ingredient_name unit  unit_cost_idr  shelf_life_days ingredient_group
+count             27                27   27      27.000000        27.000000               27
+unique            27                27    3            NaN              NaN               10
+top              I01  Daging paha ayam    g            NaN              NaN         Beverage
+freq               1                 1   11            NaN              NaN                5
+mean             NaN               NaN  NaN     455.185185        21.148148              NaN
+std              NaN               NaN  NaN     871.994709        12.790332              NaN
+min              NaN               NaN  NaN       3.000000         2.000000              NaN
+25%              NaN               NaN  NaN      29.000000         4.000000              NaN
+50%              NaN               NaN  NaN      48.000000        30.000000              NaN
+75%              NaN               NaN  NaN      72.500000        30.000000              NaN
+max              NaN               NaN  NaN    3000.000000        30.000000              NaN
+
+recipes
+<class 'pandas.DataFrame'>
+RangeIndex: 154 entries, 0 to 153
+Data columns (total 3 columns):
+ #   Column         Non-Null Count  Dtype
+---  ------         --------------  -----
+ 0   menu_id        154 non-null    str  
+ 1   ingredient_id  154 non-null    str  
+ 2   qty_per_unit   154 non-null    int64
+dtypes: int64(1), str(2)
+memory usage: 4.6 KB
+       menu_id ingredient_id  qty_per_unit
+count      154           154    154.000000
+unique      24            26           NaN
+top        M14           I06           NaN
+freq        10            21           NaN
+mean       NaN           NaN     50.733766
+std        NaN           NaN     86.420544
+min        NaN           NaN      1.000000
+25%        NaN           NaN      6.000000
+50%        NaN           NaN     20.000000
+75%        NaN           NaN     36.000000
+max        NaN           NaN    560.000000
+
+branch_inventory_policy
+<class 'pandas.DataFrame'>
+RangeIndex: 81 entries, 0 to 80
+Data columns (total 7 columns):
+ #   Column             Non-Null Count  Dtype
+---  ------             --------------  -----
+ 0   branch_id          81 non-null     str  
+ 1   ingredient_id      81 non-null     str  
+ 2   opening_qty        81 non-null     int64
+ 3   reorder_point_qty  81 non-null     int64
+ 4   restock_lot_qty    81 non-null     int64
+ 5   lead_time_days     81 non-null     int64
+ 6   target_cover_days  81 non-null     int64
+dtypes: int64(5), str(2)
+memory usage: 5.2 KB
+       branch_id ingredient_id   opening_qty  reorder_point_qty  restock_lot_qty  lead_time_days  target_cover_days
+count         81            81     81.000000          81.000000        81.000000            81.0               81.0
+unique         3            27           NaN                NaN              NaN             NaN                NaN
+top        BR-01           I01           NaN                NaN              NaN             NaN                NaN
+freq          27             3           NaN                NaN              NaN             NaN                NaN
+mean         NaN           NaN   3071.604938        1536.037037      5119.074074             1.0                5.0
+std          NaN           NaN   4223.608607        2111.722818      7039.519806             0.0                0.0
+min          NaN           NaN      3.000000           2.000000         2.000000             1.0                5.0
+25%          NaN           NaN    288.000000         144.000000       480.000000             1.0                5.0
+50%          NaN           NaN    869.000000         435.000000      1447.000000             1.0                5.0
+75%          NaN           NaN   5179.000000        2590.000000      8631.000000             1.0                5.0
+max          NaN           NaN  18032.000000        9016.000000     30054.000000             1.0                5.0
+
+orders
+<class 'pandas.DataFrame'>
+RangeIndex: 3600 entries, 0 to 3599
+Data columns (total 15 columns):
+ #   Column               Non-Null Count  Dtype                       
+---  ------               --------------  -----                       
+ 0   order_id             3600 non-null   str                         
+ 1   branch_id            3600 non-null   str                         
+ 2   ordered_at           3600 non-null   datetime64[us, Asia/Jakarta]
+ 3   ready_at             3511 non-null   datetime64[us, Asia/Jakarta]
+ 4   completed_at         3511 non-null   datetime64[us, Asia/Jakarta]
+ 5   channel              3600 non-null   str                         
+ 6   order_status         3600 non-null   str                         
+ 7   payment_status       3600 non-null   str                         
+ 8   gross_amount_idr     3600 non-null   int64                       
+ 9   discount_amount_idr  3600 non-null   int64                       
+ 10  net_amount_idr       3600 non-null   int64                       
+ 11  sla_min              3600 non-null   int64                       
+ 12  prep_time_min        3511 non-null   float64                     
+ 13  delayed_flag         3511 non-null   boolean                     
+ 14  simulation_date      3600 non-null   object                      
+dtypes: boolean(1), datetime64[us, Asia/Jakarta](3), float64(1), int64(4), object(1), str(5)
+memory usage: 526.3+ KB
+          order_id branch_id                        ordered_at                          ready_at                      completed_at  channel order_status payment_status  gross_amount_idr  discount_amount_idr  net_amount_idr      sla_min  prep_time_min delayed_flag simulation_date
+count         3600      3600                              3600                              3511                              3511     3600         3600           3600       3600.000000          3600.000000     3600.000000  3600.000000    3511.000000         3511            3600
+unique        3600         3                               NaN                               NaN                               NaN        3            2              2               NaN                  NaN             NaN          NaN            NaN            2              30
+top     ORD-000001     BR-01                               NaN                               NaN                               NaN  DINE_IN    COMPLETED           PAID               NaN                  NaN             NaN          NaN            NaN        False      2026-10-24
+freq             1      1482                               NaN                               NaN                               NaN     1422         3511           3511               NaN                  NaN             NaN          NaN            NaN         2881             159
+mean           NaN       NaN  2026-10-16 05:25:42.746111+07:00  2026-10-16 05:55:40.716889+07:00  2026-10-16 05:57:22.455141+07:00      NaN          NaN            NaN      63269.722222          1841.208333    61428.513889    20.907222      14.445500          NaN             NaN
+min            NaN       NaN         2026-10-01 10:18:43+07:00         2026-10-01 10:57:05+07:00         2026-10-01 10:58:18+07:00      NaN          NaN            NaN          0.000000             0.000000        0.000000    18.000000       1.883333          NaN             NaN
+25%            NaN       NaN         2026-10-08 20:15:20+07:00         2026-10-08 20:52:02+07:00         2026-10-08 20:52:31+07:00      NaN          NaN            NaN      33000.000000             0.000000    32000.000000    18.000000       9.350000          NaN             NaN
+50%            NaN       NaN  2026-10-16 12:43:01.500000+07:00         2026-10-16 13:02:15+07:00         2026-10-16 13:04:20+07:00      NaN          NaN            NaN      57000.000000             0.000000    56000.000000    20.000000      12.566667          NaN             NaN
+75%            NaN       NaN  2026-10-23 15:05:34.250000+07:00         2026-10-23 15:26:54+07:00         2026-10-23 15:27:40+07:00      NaN          NaN            NaN      86000.000000          2450.000000    83000.000000    25.000000      17.858333          NaN             NaN
+max            NaN       NaN         2026-10-30 21:41:52+07:00         2026-10-30 22:01:05+07:00         2026-10-30 22:02:54+07:00      NaN          NaN            NaN     283000.000000         35400.000000   283000.000000    25.000000      62.516667          NaN             NaN
+std            NaN       NaN                               NaN                               NaN                               NaN      NaN          NaN            NaN      39398.072809          3672.462322    38247.889072     3.040662       7.629769          NaN             NaN
+
+order_items
+<class 'pandas.DataFrame'>
+RangeIndex: 7192 entries, 0 to 7191
+Data columns (total 11 columns):
+ #   Column                  Non-Null Count  Dtype
+---  ------                  --------------  -----
+ 0   order_item_id           7192 non-null   str  
+ 1   order_id                7192 non-null   str  
+ 2   menu_id                 7192 non-null   str  
+ 3   quantity                7192 non-null   int64
+ 4   unit_price_idr          7192 non-null   int64
+ 5   line_gross_idr          7192 non-null   int64
+ 6   allocated_discount_idr  7192 non-null   int64
+ 7   line_net_idr            7192 non-null   int64
+ 8   unit_food_cost_idr      7192 non-null   int64
+ 9   line_food_cost_idr      7192 non-null   int64
+ 10  line_food_gp_idr        7192 non-null   int64
+dtypes: int64(8), str(3)
+memory usage: 800.8 KB
+        order_item_id    order_id menu_id     quantity  unit_price_idr  line_gross_idr  allocated_discount_idr   line_net_idr  unit_food_cost_idr  line_food_cost_idr  line_food_gp_idr
+count            7192        7192    7192  7192.000000     7192.000000     7192.000000             7192.000000    7192.000000         7192.000000         7192.000000       7192.000000
+unique           7192        3511      24          NaN             NaN             NaN                     NaN            NaN                 NaN                 NaN               NaN
+top     ORD-000003-01  ORD-000003     M21          NaN             NaN             NaN                     NaN            NaN                 NaN                 NaN               NaN
+freq                1           4     486          NaN             NaN             NaN                     NaN            NaN                 NaN                 NaN               NaN
+mean              NaN         NaN     NaN     1.160039    27266.824249    31670.050056              921.628198   30748.421858        11790.792686        13722.612625      17025.809232
+std               NaN         NaN     NaN     0.421702    10907.156537    18057.688228             1824.155670   17488.696906         8800.302603        12474.785243       8761.695108
+min               NaN         NaN     NaN     1.000000    10000.000000    10000.000000                0.000000    8500.000000         2640.000000         2640.000000        330.000000
+25%               NaN         NaN     NaN     1.000000    22000.000000    22000.000000                0.000000   22000.000000         8528.000000         9280.000000      10560.000000
+50%               NaN         NaN     NaN     1.000000    29000.000000    31000.000000                0.000000   29000.000000        10952.000000        11205.000000      15472.000000
+75%               NaN         NaN     NaN     1.000000    32250.000000    34000.000000             1450.000000   33000.000000        13176.000000        13613.000000      19998.000000
+max               NaN         NaN     NaN     3.000000    69000.000000   207000.000000            31050.000000  207000.000000        58320.000000       174960.000000      66522.000000
+
+inventory_movements
+<class 'pandas.DataFrame'>
+RangeIndex: 33021 entries, 0 to 33020
+Data columns (total 10 columns):
+ #   Column             Non-Null Count  Dtype                       
+---  ------             --------------  -----                       
+ 0   movement_id        33021 non-null  str                         
+ 1   branch_id          33021 non-null  str                         
+ 2   ingredient_id      33021 non-null  str                         
+ 3   order_id           32009 non-null  str                         
+ 4   occurred_at        33021 non-null  datetime64[us, Asia/Jakarta]
+ 5   movement_type      33021 non-null  str                         
+ 6   signed_qty         33021 non-null  int64                       
+ 7   reason             33021 non-null  str                         
+ 8   unit_cost_idr      33021 non-null  int64                       
+ 9   movement_cost_idr  33021 non-null  int64                       
+dtypes: datetime64[us, Asia/Jakarta](1), int64(3), str(6)
+memory usage: 4.1 MB
+        movement_id branch_id ingredient_id    order_id                       occurred_at movement_type    signed_qty             reason  unit_cost_idr  movement_cost_idr
+count         33021     33021         33021       32009                             33021         33021  33021.000000              33021   33021.000000       3.302100e+04
+unique        33021         3            27        3511                               NaN             4           NaN                  5            NaN                NaN
+top     MOV-0000001     BR-01           I06  ORD-003121                               NaN         USAGE           NaN  order_consumption            NaN                NaN
+freq              1     13401          3361          19                               NaN         32009           NaN              32009            NaN                NaN
+mean            NaN       NaN           NaN         NaN  2026-10-16 07:12:04.626389+07:00           NaN      6.456285                NaN     307.171891       6.352343e+03
+min             NaN       NaN           NaN         NaN         2026-10-01 08:00:00+07:00           NaN  -2100.000000                NaN       3.000000       7.800000e+01
+25%             NaN       NaN           NaN         NaN         2026-10-08 20:51:18+07:00           NaN   -106.000000                NaN      25.000000       8.250000e+02
+50%             NaN       NaN           NaN         NaN         2026-10-16 14:27:58+07:00           NaN    -25.000000                NaN      48.000000       1.500000e+03
+75%             NaN       NaN           NaN         NaN         2026-10-23 17:16:26+07:00           NaN    -10.000000                NaN      65.000000       3.510000e+03
+max             NaN       NaN           NaN         NaN         2026-10-30 22:01:05+07:00           NaN  30054.000000                NaN    3000.000000       1.442592e+06
+std             NaN       NaN           NaN         NaN                               NaN           NaN   1092.880216                NaN     630.551934       4.483560e+04
+
+feedback
+<class 'pandas.DataFrame'>
+RangeIndex: 768 entries, 0 to 767
+Data columns (total 6 columns):
+ #   Column       Non-Null Count  Dtype                       
+---  ------       --------------  -----                       
+ 0   feedback_id  768 non-null    str                         
+ 1   order_id     768 non-null    str                         
+ 2   rating       768 non-null    int64                       
+ 3   review_text  768 non-null    str                         
+ 4   theme        768 non-null    str                         
+ 5   feedback_at  768 non-null    datetime64[us, Asia/Jakarta]
+dtypes: datetime64[us, Asia/Jakarta](1), int64(1), str(4)
+memory usage: 93.3 KB
+       feedback_id    order_id      rating                                      review_text      theme                       feedback_at
+count          768         768  768.000000                                              768        768                               768
+unique         768         768         NaN                                               31          6                               NaN
+top      FB-000006  ORD-000006         NaN  Pesanan cepat dan praktis. Mudah dibawa pulang.  kecepatan                               NaN
+freq             1           1         NaN                                               48        177                               NaN
+mean           NaN         NaN    4.061198                                              NaN        NaN  2026-10-16 01:18:03.394531+07:00
+min            NaN         NaN    2.000000                                              NaN        NaN         2026-10-01 11:54:26+07:00
+25%            NaN         NaN    4.000000                                              NaN        NaN  2026-10-08 23:06:52.750000+07:00
+50%            NaN         NaN    4.000000                                              NaN        NaN         2026-10-15 21:05:31+07:00
+75%            NaN         NaN    5.000000                                              NaN        NaN  2026-10-23 13:39:46.750000+07:00
+max            NaN         NaN    5.000000                                              NaN        NaN         2026-10-30 21:56:01+07:00
+std            NaN         NaN    0.978334                                              NaN        NaN                               NaN

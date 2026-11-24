@@ -1,0 +1,19 @@
+[theme]
+base = "light"
+primaryColor = "#963C32"
+backgroundColor = "#F5F5F2"
+secondaryBackgroundColor = "#FFFFFF"
+textColor = "#262624"
+font = "sans serif"
+baseRadius = "0.25rem"
+showWidgetBorder = true
+borderColor = "#8A897F"
+
+[browser]
+gatherUsageStats = false
+
+[server]
+headless = true
+
+[client]
+toolbarMode = "viewer"

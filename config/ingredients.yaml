@@ -1,0 +1,162 @@
+- ingredient_id: I01
+  ingredient_name: Daging paha ayam
+  unit: g
+  unit_cost_idr: 48
+  ingredient_group: Protein
+  shelf_life_days: 2
+- ingredient_id: I02
+  ingredient_name: Fillet dada ayam
+  unit: g
+  unit_cost_idr: 55
+  ingredient_group: Protein
+  shelf_life_days: 2
+- ingredient_id: I03
+  ingredient_name: Sayap ayam
+  unit: g
+  unit_cost_idr: 43
+  ingredient_group: Protein
+  shelf_life_days: 2
+- ingredient_id: I04
+  ingredient_name: Tepung crispy mix
+  unit: g
+  unit_cost_idr: 16
+  ingredient_group: Dry goods
+  shelf_life_days: 30
+- ingredient_id: I05
+  ingredient_name: Minyak goreng
+  unit: ml
+  unit_cost_idr: 25
+  ingredient_group: Oil
+  shelf_life_days: 30
+- ingredient_id: I06
+  ingredient_name: Bumbu rempah
+  unit: g
+  unit_cost_idr: 55
+  ingredient_group: Seasoning
+  shelf_life_days: 30
+- ingredient_id: I07
+  ingredient_name: Nasi matang
+  unit: g
+  unit_cost_idr: 12
+  ingredient_group: Carb
+  shelf_life_days: 30
+- ingredient_id: I08
+  ingredient_name: Roti burger
+  unit: pcs
+  unit_cost_idr: 3000
+  ingredient_group: Carb
+  shelf_life_days: 30
+- ingredient_id: I09
+  ingredient_name: Keju slice
+  unit: pcs
+  unit_cost_idr: 1600
+  ingredient_group: Dairy
+  shelf_life_days: 7
+- ingredient_id: I10
+  ingredient_name: Selada
+  unit: g
+  unit_cost_idr: 45
+  ingredient_group: Produce
+  shelf_life_days: 4
+- ingredient_id: I11
+  ingredient_name: Tomat
+  unit: g
+  unit_cost_idr: 35
+  ingredient_group: Produce
+  shelf_life_days: 4
+- ingredient_id: I12
+  ingredient_name: Mayonnaise
+  unit: ml
+  unit_cost_idr: 50
+  ingredient_group: Condiment
+  shelf_life_days: 30
+- ingredient_id: I13
+  ingredient_name: Saus pedas
+  unit: ml
+  unit_cost_idr: 65
+  ingredient_group: Condiment
+  shelf_life_days: 30
+- ingredient_id: I14
+  ingredient_name: Saus barbeque
+  unit: ml
+  unit_cost_idr: 60
+  ingredient_group: Condiment
+  shelf_life_days: 30
+- ingredient_id: I15
+  ingredient_name: Saus teriyaki
+  unit: ml
+  unit_cost_idr: 70
+  ingredient_group: Condiment
+  shelf_life_days: 30
+- ingredient_id: I16
+  ingredient_name: Kentang
+  unit: g
+  unit_cost_idr: 32
+  ingredient_group: Carb
+  shelf_life_days: 30
+- ingredient_id: I17
+  ingredient_name: Kubis
+  unit: g
+  unit_cost_idr: 22
+  ingredient_group: Produce
+  shelf_life_days: 4
+- ingredient_id: I18
+  ingredient_name: Wortel
+  unit: g
+  unit_cost_idr: 26
+  ingredient_group: Produce
+  shelf_life_days: 4
+- ingredient_id: I19
+  ingredient_name: Telur
+  unit: pcs
+  unit_cost_idr: 2200
+  ingredient_group: Protein
+  shelf_life_days: 2
+- ingredient_id: I20
+  ingredient_name: Tortilla
+  unit: pcs
+  unit_cost_idr: 2600
+  ingredient_group: Carb
+  shelf_life_days: 30
+- ingredient_id: I21
+  ingredient_name: Konsentrat teh
+  unit: ml
+  unit_cost_idr: 40
+  ingredient_group: Beverage
+  shelf_life_days: 30
+- ingredient_id: I22
+  ingredient_name: Sirup gula
+  unit: ml
+  unit_cost_idr: 45
+  ingredient_group: Beverage
+  shelf_life_days: 30
+- ingredient_id: I23
+  ingredient_name: Perasan lemon
+  unit: ml
+  unit_cost_idr: 75
+  ingredient_group: Beverage
+  shelf_life_days: 30
+- ingredient_id: I24
+  ingredient_name: Soda
+  unit: ml
+  unit_cost_idr: 18
+  ingredient_group: Beverage
+  shelf_life_days: 30
+- ingredient_id: I25
+  ingredient_name: Air
+  unit: ml
+  unit_cost_idr: 3
+  ingredient_group: Beverage
+  shelf_life_days: 30
+- ingredient_id: I26
+  ingredient_name: Gelas dan tutup
+  unit: pcs
+  unit_cost_idr: 850
+  ingredient_group: Packaging
+  shelf_life_days: 30
+- ingredient_id: I27
+  ingredient_name: Kotak makanan
+  unit: pcs
+  unit_cost_idr: 1200
+  ingredient_group: Packaging
+  shelf_life_days: 30

@@ -1,0 +1,84 @@
+{
+  "seed": 20261001,
+  "sha256": {
+    "branches.csv": "03baf2558e8395ded668fe91c14c15ece7fdad118295c5e69aceaaa630fe8bef",
+    "menu.csv": "2a3d9ca274f66ef033d93899884c9c3fe87688e5cdff245717150ebe7947a0e9",
+    "ingredients.csv": "85a1fc0c8611f1ccf9435db66de06df9e1647b3c50d3583593f0c04d6e0202f9",
+    "recipes.csv": "f8c78f69007268a661b0372c85f56f081d48e2675e2a256c99629cda43813743",
+    "branch_inventory_policy.csv": "1eeb9ace76b3d283a7281b57af365ad4d54883969d06e176b240fc7394a46960",
+    "orders.csv": "1291d993bbb7eb0dc70fc4f0b80ea6f4b538126fc4ed3041b38d12aa02afaefb",
+    "order_items.csv": "9e80b3c9d9e089b19019728de676760e047d29c0676d2a1080a1d0cf91bc7edd",
+    "inventory_movements.csv": "3e4044a03da2160e837c251b8b0fbfcf27ca77e3918e1ac5e46d8f775c9b63e4",
+    "feedback.csv": "2864398d8928f72be0196206dd9d51ba3099ef80507aa37e4c6774ee3ee28a31"
+  },
+  "browser": "158.0.8127.36",
+  "filenames": [
+    "overview_v2_1366.png",
+    "orders_v2_1366.png",
+    "kitchen_v2_1366.png",
+    "inventory_v2_1366.png",
+    "sales_v2_1366.png",
+    "profit_v2_1366.png",
+    "recipe_v2_1366.png",
+    "orders_qualitative_v2_1366.png",
+    "overview_v2_1920.png",
+    "overview_v2_768.png",
+    "overview_v2_390.png"
+  ],
+  "measurements": [
+    {
+      "page": "overview",
+      "ready_ms": 1253
+    },
+    {
+      "page": "orders",
+      "ready_ms": 357
+    },
+    {
+      "page": "kitchen",
+      "ready_ms": 417
+    },
+    {
+      "page": "inventory",
+      "ready_ms": 408
+    },
+    {
+      "page": "sales",
+      "ready_ms": 452
+    },
+    {
+      "page": "profit",
+      "ready_ms": 408
+    }
+  ],
+  "responsive": [
+    {
+      "width": 1920,
+      "scroll": 1920,
+      "focus": "A"
+    },
+    {
+      "width": 768,
+      "scroll": 768,
+      "focus": "A"
+    },
+    {
+      "width": 390,
+      "scroll": 390,
+      "focus": "A"
+    }
+  ],
+  "filter": "24–30 Oktober 2026, semua cabang dan kategori kecuali langkah uji filter",
+  "checks": [
+    "6 rute",
+    "8 KPI",
+    "3 tugas teknis",
+    "persistensi filter",
+    "reset",
+    "pencarian",
+    "ekspor CSV",
+    "word cloud dan workflow",
+    "peta dengan label tanpa ubin eksternal",
+    "layout 390, 768, 1366, 1920"
+  ]
+}

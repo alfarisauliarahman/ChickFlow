@@ -1,0 +1,14 @@
+seed: 20261001
+start_date: '2026-10-01'
+days: 30
+target_orders: 3600
+timezone: Asia/Jakarta
+opening_hour: 10
+closing_hour: 22
+cancellation_probability: 0.025
+feedback_probability: 0.22
+sla_minutes:
+  DINE_IN: 18
+  TAKEAWAY: 20
+  DELIVERY: 25
+quality_issues: true

@@ -1,0 +1,61 @@
+{
+  "generator_version": "2.3.0",
+  "seed": 20261001,
+  "range_start": "2026-10-01",
+  "range_end": "2026-10-30",
+  "config_sha256": "0547d4c6cac0aa88b81c387ef4efb6d4a3a0fc5217a5e2f8389a038fdb8ea6b4",
+  "simulation": {
+    "seed": 20261001,
+    "start_date": "2026-10-01",
+    "days": 30,
+    "target_orders": 3600,
+    "timezone": "Asia/Jakarta",
+    "opening_hour": 10,
+    "closing_hour": 22,
+    "cancellation_probability": 0.025,
+    "feedback_probability": 0.22,
+    "sla_minutes": {
+      "DINE_IN": 18,
+      "TAKEAWAY": 20,
+      "DELIVERY": 25
+    },
+    "quality_issues": true
+  },
+  "catalog_sha256": {
+    "branches": "18c7137f75fbdc41caa357146ac6f4daab3e743a13a59472761817083103c1e6",
+    "menu": "a07e984c49601613d5bbb8d8315e36bc212b2af177ba8a1d3deb17288140bedd",
+    "ingredients": "a456852a4cfcc7b55c247522c6c78e23d3a29b83ec22a687546940791f0f5e72",
+    "recipes": "102ef66158dd7496304cec8390bee9e4cb992ff0900d205f8bc27e19487194c7"
+  },
+  "generated_at": "2026-11-23T20:58:14+00:00",
+  "synthetic": true,
+  "rows": {
+    "branches": 3,
+    "menu": 24,
+    "ingredients": 27,
+    "recipes": 154,
+    "branch_inventory_policy": 81,
+    "orders": 3600,
+    "order_items": 7192,
+    "inventory_movements": 33021,
+    "feedback": 768
+  },
+  "sha256": {
+    "branches.csv": "03baf2558e8395ded668fe91c14c15ece7fdad118295c5e69aceaaa630fe8bef",
+    "menu.csv": "2a3d9ca274f66ef033d93899884c9c3fe87688e5cdff245717150ebe7947a0e9",
+    "ingredients.csv": "85a1fc0c8611f1ccf9435db66de06df9e1647b3c50d3583593f0c04d6e0202f9",
+    "recipes.csv": "f8c78f69007268a661b0372c85f56f081d48e2675e2a256c99629cda43813743",
+    "branch_inventory_policy.csv": "1eeb9ace76b3d283a7281b57af365ad4d54883969d06e176b240fc7394a46960",
+    "orders.csv": "1291d993bbb7eb0dc70fc4f0b80ea6f4b538126fc4ed3041b38d12aa02afaefb",
+    "order_items.csv": "9e80b3c9d9e089b19019728de676760e047d29c0676d2a1080a1d0cf91bc7edd",
+    "inventory_movements.csv": "3e4044a03da2160e837c251b8b0fbfcf27ca77e3918e1ac5e46d8f775c9b63e4",
+    "feedback.csv": "2864398d8928f72be0196206dd9d51ba3099ef80507aa37e4c6774ee3ee28a31"
+  },
+  "cleaning": {
+    "category_missing": 1,
+    "category_normalized": 2,
+    "format_timestamp": 36,
+    "duplicate_orders": 18,
+    "review_text_missing": 15
+  }
+}

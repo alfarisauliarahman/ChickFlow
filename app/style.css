@@ -1,0 +1,162 @@
+:root {
+  color-scheme: light;
+  --cf-font: "Avenir Next", Avenir, system-ui, sans-serif;
+  --cf-ink: #262624;
+  --cf-muted: #53534d;
+  --cf-paper: #f5f5f2;
+  --cf-white: #fff;
+  --cf-brick: #963c32;
+  --cf-mist: #f7ede8;
+  --cf-line: #dadad3;
+}
+html, body, [data-testid="stAppViewContainer"], [data-testid="stAppViewContainer"] button,
+[data-testid="stAppViewContainer"] input, [data-testid="stAppViewContainer"] select {
+  font-family: var(--cf-font);
+}
+[data-testid="stMainBlockContainer"] {
+  max-width: 1480px;
+  padding: 4.35rem clamp(1rem, 2.8vw, 2.5rem) 3rem;
+}
+[data-testid="stHeader"] {
+  background: var(--cf-white);
+  border-bottom: 1px solid var(--cf-line);
+}
+[data-testid="stLogo"] { max-width: 9.5rem; }
+[data-testid="stHeading"] h1, [data-testid="stMainBlockContainer"] h1 {
+  font-family: var(--cf-font);
+  font-size: clamp(1.8rem, 3.1vw, 3rem);
+  font-weight: 700;
+  letter-spacing: -.035em;
+  line-height: 1.1;
+  padding-bottom: .2rem;
+}
+[data-testid="stMainBlockContainer"] h2, [data-testid="stMainBlockContainer"] h3 {
+  font-family: var(--cf-font);
+  font-weight: 650;
+  letter-spacing: -.025em;
+  margin-top: 0;
+}
+[data-testid="stMainBlockContainer"] h2 { font-size: clamp(1.15rem, 1.55vw, 1.55rem); }
+[data-testid="stMainBlockContainer"] h3 { font-size: clamp(1.07rem, 1.4vw, 1.35rem); }
+[data-testid="stCaptionContainer"], [data-testid="stCaptionContainer"] p { color: var(--cf-muted); }
+[data-testid="stMetricValue"] {
+  font-variant-numeric: tabular-nums;
+  font-size: clamp(1rem, 1.9vw, 1.9rem);
+  font-weight: 650;
+  letter-spacing: -.035em;
+}
+[data-testid="stMetricLabel"], [data-testid="stMetricLabel"] p {
+  white-space: normal; overflow: visible; text-overflow: clip;
+}
+:is(.st-key-report-hero, .st-key-global-filters, .st-key-metrics-overview,
+    .st-key-trend-panel, .st-key-recipe-photo, .st-key-chart-box, .st-key-orders-heatmap,
+    .st-key-sales-trend, .st-key-sales-map, .st-key-margin-scatter) {
+  background-color: var(--cf-white);
+  border-radius: .25rem;
+  border-color: var(--cf-line);
+}
+.st-key-report-hero { overflow: hidden; }
+.st-key-report-hero [data-testid="stHorizontalBlock"] { align-items: stretch; gap: 0; }
+.st-key-report-hero [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child {
+  align-content: center;
+  padding: clamp(.75rem, 2vw, 1.6rem);
+}
+.st-key-report-hero [data-testid="stImage"] img {
+  width: 100%;
+  height: clamp(8.75rem, 11vw, 10.25rem);
+  object-fit: cover;
+  object-position: 65% 51%;
+}
+.st-key-global-filters [data-testid="stHorizontalBlock"] { align-items: end; }
+.st-key-global-filters { padding: .65rem .85rem; }
+[class*="st-key-metrics-"] :is([data-testid="stMetric"], [data-testid="stMetricValue"]) { min-width: 0; }
+.st-key-metrics-overview [data-testid="stColumn"] + [data-testid="stColumn"] {
+  border-left: 1px solid var(--cf-line);
+  padding-left: .7rem;
+}
+.st-key-critical-alert, .st-key-restock-panel {
+  background-color: var(--cf-mist);
+  border-radius: .25rem;
+  padding: .8rem .95rem;
+}
+.st-key-mobile-stock-shortcut { display: none; }
+[class*="st-key-alert-"] { border-bottom: 1px solid var(--cf-line); padding: .55rem .9rem; }
+:is(.st-key-critical-alert, [class*="st-key-alert-"]) [data-testid="stVerticalBlock"] { gap: .25rem; }
+:is(.st-key-critical-alert, [class*="st-key-alert-"]) [data-testid="stPageLink"] :is(a, p) {
+  color: var(--cf-brick);
+  font-weight: 650;
+}
+:is(.st-key-inventory-facts, .st-key-secondary-kpis, .st-key-equation) {
+  background: #efefec;
+  border-radius: .25rem;
+  padding: .95rem;
+}
+.st-key-equation [data-testid="stColumn"]:last-child [data-testid="stMetric"] {
+  padding: .6rem;
+  background: var(--cf-mist);
+  border-radius: .25rem;
+}
+:is(.st-key-sla-panel, .st-key-margin-review) {
+  background-color: #2b2a27;
+  border-radius: .25rem;
+}
+:is(.st-key-sla-panel, .st-key-margin-review)
+  :is(p, h2, h3, [data-testid="stMetricValue"], [data-testid="stMetricLabel"], [data-testid="stCaptionContainer"]) {
+  color: #fff6ec;
+}
+button:not(:disabled), summary, a[href] { cursor: pointer; }
+button:focus-visible, a:focus-visible, select:focus-visible, input:focus-visible, summary:focus-visible {
+  outline: 2px solid var(--cf-brick);
+  outline-offset: 2px;
+}
+@media (max-width: 900px) {
+  [data-testid="stMainBlockContainer"] { padding: 4.3rem 1rem 3rem; }
+  :is(.st-key-overview-detail, .st-key-orders-layout, .st-key-kitchen-layout,
+      .st-key-inventory-layout, .st-key-sales-layout, .st-key-profit-layout,
+      .st-key-recipe-layout, .st-key-order-detail-layout)
+  > [data-testid="stVerticalBlock"] > [data-testid="stHorizontalBlock"] {
+    flex-wrap: wrap;
+  }
+  :is(.st-key-overview-detail, .st-key-orders-layout, .st-key-kitchen-layout,
+      .st-key-inventory-layout, .st-key-sales-layout, .st-key-profit-layout,
+      .st-key-recipe-layout, .st-key-order-detail-layout)
+  > [data-testid="stVerticalBlock"] > [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] {
+    flex: 1 0 100% !important;
+    min-width: 0 !important;
+  }
+  .st-key-global-filters [data-testid="stHorizontalBlock"] { flex-wrap: wrap; }
+  .st-key-global-filters [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] {
+    flex: 1 0 calc(50% - .55rem) !important;
+    min-width: 0 !important;
+  }
+}
+@media (max-width: 580px) {
+  .st-key-mobile-stock-shortcut {
+    display: flex;
+    gap: .15rem;
+    padding: .65rem .85rem;
+    border-radius: .25rem;
+    background: var(--cf-mist);
+  }
+  .st-key-mobile-stock-shortcut a { min-height: 44px; }
+  .st-key-mobile-stock-shortcut :is(a, [data-testid="stPageLink"] p) {
+    color: var(--cf-brick);
+    font-weight: 650;
+  }
+  .st-key-critical-alert [data-testid="stPageLink"] { display: none; }
+  [class*="st-key-metrics-"] [data-testid="stHorizontalBlock"],
+  .st-key-secondary-kpis [data-testid="stHorizontalBlock"],
+  .st-key-equation [data-testid="stHorizontalBlock"] { flex-wrap: wrap; }
+  [class*="st-key-metrics-"] [data-testid="stHorizontalBlock"] > [data-testid="stColumn"],
+  .st-key-secondary-kpis [data-testid="stHorizontalBlock"] > [data-testid="stColumn"],
+  .st-key-equation [data-testid="stHorizontalBlock"] > [data-testid="stColumn"] {
+    flex: 1 0 calc(50% - .55rem) !important;
+    min-width: 0 !important;
+  }
+  .st-key-report-hero [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:last-child { display: none; }
+  .st-key-global-filters [data-testid="stHorizontalBlock"] > [data-testid="stColumn"]:first-child {
+    flex-basis: 100% !important;
+  }
+  .st-key-metrics-overview [data-testid="stColumn"]:nth-child(odd) { border-left: 0; padding-left: 0; }
+  [data-testid="stButton"] button, [data-testid="stDownloadButton"] button { min-height: 44px; }
+}
